@@ -4,13 +4,25 @@
 
 ## 📝 **My Publications**
 
-<div style="max-height:250px; overflow-y:auto; border:1px solid #ddd; padding:10px;">
+<details>
+  <summary><b>展开/收起我的文章（点击）</b></summary>
 
-- **Cheng et al.** *MVP-PCLIP: Multi-View Projection for Point Cloud Zero-Shot Anomaly Detection*. IEEE TII, 2024. [[PDF](link)] [[Code](link)]  
-- **Cheng et al.** *High-Resolution Point Cloud Anomaly Detection with Multi-Scale Local Features*. IEEE TASE, 2024. [[PDF](link)] [[Code](link)]  
-- **Cheng et al.** *Hybrid Memory Bank Metric for Industrial Defect Detection*. arXiv, 2025. [[PDF](link)] [[Code](link)]  
+- **Cheng et al.** *MVP-PCLIP: Multi-View Projection for Point Cloud Zero-Shot Anomaly Detection*. IEEE TII, 2024. [[PDF](link)] [[Code](link)]
+- **Cheng et al.** *High-Resolution Point Cloud Anomaly Detection with Multi-Scale Local Features*. IEEE TASE, 2024. [[PDF](link)] [[Code](link)]
+- **Cheng et al.** *Hybrid Memory Bank Metric for Industrial Defect Detection*. arXiv, 2025. [[PDF](link)] [[Code](link)]
 - ...（继续添加）
 
+</details>
+
+<h2><b>My Publications</b></h2>
+
+<div style="max-height:250px; overflow-y:auto; border:1px solid #ddd; padding:10px;">
+  <ul>
+    <li><b>Cheng et al.</b> <i>MVP-PCLIP: Multi-View Projection for Point Cloud Zero-Shot Anomaly Detection</i>. IEEE TII, 2024. <a href="link">PDF</a> · <a href="link">Code</a></li>
+    <li><b>Cheng et al.</b> <i>High-Resolution Point Cloud Anomaly Detection with Multi-Scale Local Features</i>. IEEE TASE, 2024. <a href="link">PDF</a> · <a href="link">Code</a></li>
+    <li><b>Cheng et al.</b> <i>Hybrid Memory Bank Metric for Industrial Defect Detection</i>. arXiv, 2025. <a href="link">PDF</a> · <a href="link">Code</a></li>
+    <li>...（继续添加）</li>
+  </ul>
 </div>
 
 ---
