@@ -9,7 +9,7 @@
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Publications](#Our-Publications) | [AAAI-2026](#AAAAI-2026) | [NIPS-2025](#NIPS-2025) | [Journal-2025](#Journal-2025) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [Earlier](#earlier)
+- [Our-Publications](#Our-Publications) | [AAAI-2026](#AAAAI-2026) | [NIPS-2025](#NIPS-2025) | [ICCV-2025](#ICCV-2025) | [CVPR-2025](#CVPR-2025) | [IJCAI-2025](#IJCAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -20,18 +20,10 @@
 <details open>
 <summary>📚 Show/Hide 2024 Papers</summary>
 
-- **Liu et al.**  
-  *AnomalyGPT: Detecting Industrial Anomalies with Large Vision-Language Models*. arXiv 2024.  
-  [[PDF](https://arxiv.org/pdf/2403.99999)] [[Code](https://github.com/xxx/AnomalyGPT)]
+Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue?style=flat-square)](#)
+ - A Survey on Vision-Language-Action Models: An Action Tokenization Perspective. [Paper]() [Code]() [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue?style=flat-square)](#)
 
-- **Smith et al.**  
-  *Noise-Robust AD for Manufacturing Defects*. TNNLS 2024.  
-  [[PDF](https://xxx)] [[Video](https://youtu.be/xxx)]
 
-<span style="background-color:#e1ecf4; color:#0366d6; padding:4px 8px; border-radius:12px;">📅 2024</span>
-<span style="background-color:#fff5b1; color:#735c0f; padding:4px 8px; border-radius:12px;">📦 MVTec</span>
-<span style="background-color:#dafbe1; color:#116329; padding:4px 8px; border-radius:12px;">🧠 Transformer</span>
-<span style="background-color:#fdecea; color:#d73a49; padding:4px 8px; border-radius:12px;">🧪 Zero-Shot</span>
 
 
 </details>
@@ -40,19 +32,10 @@
 
 
 
-## 2025
+## AAAI-2026
 
 <details open>
 <summary>📚 Show/Hide 2025 Papers</summary>
-
-- **Zhou et al.**  
-  *MMAD: Multimodal LLM Benchmark for Industrial Anomaly Detection*. NeurIPS 2025.  
-  [[PDF](https://arxiv.org/pdf/2507.12345)] [[Code](https://github.com/xxx/MMAD)]
-
-- **Kim et al.**  
-  *Diffusion Models for Anomaly Synthesis in Industrial Data*. CVPR 2025.  
-  [[PDF](https://arxiv.org/pdf/2506.98765)] [[Project](https://ad-diffusion.ai/)]
-
 
 
 - [2025] Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2508.13073)] [[project](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)]  [![AAAA](https://img.shields.io/badge/AAAA-BBBBB-blue)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
@@ -88,50 +71,133 @@
 
 ---
 
-## 2024
+## NIPS-2025
 
 <details open>
 <summary>📚 Show/Hide 2024 Papers</summary>
 
-- **Liu et al.**  
-  *AnomalyGPT: Detecting Industrial Anomalies with Large Vision-Language Models*. arXiv 2024.  
-  [[PDF](https://arxiv.org/pdf/2403.99999)] [[Code](https://github.com/xxx/AnomalyGPT)]
-
-- **Smith et al.**  
-  *Noise-Robust AD for Manufacturing Defects*. TNNLS 2024.  
-  [[PDF](https://xxx)] [[Video](https://youtu.be/xxx)]
+- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+- [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
 </details>
 
 ---
 
-## 2023
+
+
+## ICCV-2025
 
 <details open>
-<summary>📚 Show/Hide 2023 Papers</summary>
+<summary>📚 Show/Hide 2024 Papers</summary>
 
-- **Chen et al.**  
-  *PatchCore: Memory Bank Based Anomaly Detection*. CVPR 2023.  
-  [[PDF](https://arxiv.org/pdf/2305.12345)] [[Code](https://github.com/xxx/PatchCore)]
-
-- **Tanaka et al.**  
-  *DRAEM: Dual Reconstructive Anomaly Embedding Model*. ICCV 2023.  
-  [[PDF](https://arxiv.org/pdf/2304.12345)] [[Code](https://github.com/xxx/DRAEM)]
+- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+- [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
 </details>
 
 ---
 
-## Earlier
+
+
+## CVPR-2025
 
 <details open>
-<summary>📚 Show/Hide Earlier Papers</summary>
+<summary>📚 Show/Hide 2024 Papers</summary>
 
-- **Bergmann et al. (2020)**  
-  *MVTEC AD Dataset and Baselines*. CVPR 2020.  
-  [[PDF](https://arxiv.org/pdf/1905.01723)] [[Website](https://www.mvtec.com/company/research/datasets/mvtec-ad/)]
+- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+- [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
 </details>
+
+---
+
+
+## IJCAI-2025
+
+<details open>
+<summary>📚 Show/Hide 2024 Papers</summary>
+
+- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+- [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+
+</details>
+
+---
+
+
+
+## Journal-2025
+
+<details open>
+<summary>📚 Show/Hide 2024 Papers</summary>
+
+- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+- [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+
+</details>
+
+---
+
+
+
+
+
+
+
+
+
+
+## Summary-before-2025
+
+<details open>
+<summary>📚 Show/Hide 2024 Papers</summary>
+
+- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+- [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+
+</details>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
