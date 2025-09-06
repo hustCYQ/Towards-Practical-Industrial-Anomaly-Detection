@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 2025
+## 2025
 
 <details open>
 <summary>📚 Show/Hide 2025 Papers</summary>
@@ -70,7 +70,7 @@
 
 ---
 
-## 📌 2024
+## 2024
 
 <details open>
 <summary>📚 Show/Hide 2024 Papers</summary>
@@ -87,7 +87,7 @@
 
 ---
 
-## 📌 2023
+## 2023
 
 <details open>
 <summary>📚 Show/Hide 2023 Papers</summary>
@@ -104,7 +104,7 @@
 
 ---
 
-## 📌 Earlier
+## Earlier
 
 <details open>
 <summary>📚 Show/Hide Earlier Papers</summary>
