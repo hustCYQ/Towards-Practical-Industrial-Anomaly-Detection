@@ -25,6 +25,12 @@
   *Noise-Robust AD for Manufacturing Defects*. TNNLS 2024.  
   [[PDF](https://xxx)] [[Video](https://youtu.be/xxx)]
 
+<span style="background-color:#e1ecf4; color:#0366d6; padding:4px 8px; border-radius:12px;">📅 2024</span>
+<span style="background-color:#fff5b1; color:#735c0f; padding:4px 8px; border-radius:12px;">📦 MVTec</span>
+<span style="background-color:#dafbe1; color:#116329; padding:4px 8px; border-radius:12px;">🧠 Transformer</span>
+<span style="background-color:#fdecea; color:#d73a49; padding:4px 8px; border-radius:12px;">🧪 Zero-Shot</span>
+
+
 </details>
 
 ---
@@ -46,7 +52,7 @@
 
 
 
-- [2025] Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2508.13073)] [[project](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)]  
+- [2025] Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2508.13073)] [[project](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)]  ![AAAA](https://img.shields.io/badge/AAAA-BBBBB-blue)
 - [2025] Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning [[paper](https://arxiv.org/pdf/2508.10399)]
 - [2025] Foundation Model Driven Robotics: A Comprehensive Review [[paper](https://arxiv.org/pdf/2507.10087)]
 - [2025] [**PKU-PsiBot**] A Survey on Vision-Language-Action Models: An Action Tokenization Perspective [[paper](https://arxiv.org/pdf/2507.01925)]
