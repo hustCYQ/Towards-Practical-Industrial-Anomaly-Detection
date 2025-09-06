@@ -9,7 +9,7 @@
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Publications](#Our-Publications) | [AAAI-2026](#AAAAI-2026) | [NIPS-2025](#NIPS-2025) | [ICCV-2025](#ICCV-2025) | [CVPR-2025](#CVPR-2025) | [IJCAI-2025](#IJCAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Publications](#Our-Publications) | [AAAI-2026](#AAAI-2026) | [NIPS-2025](#NIPS-2025) | [ICCV-2025](#ICCV-2025) | [CVPR-2025](#CVPR-2025) | [IJCAI-2025](#IJCAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
