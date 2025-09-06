@@ -1,10 +1,13 @@
 # 📚 **Awesome Industrial Anomaly Detection**
 
 ---
+## 🏅 Recent Featured Papers
+- [2025] [**PKU-PsiBot**] A Survey on Vision-Language-Action Models: An Action Tokenization Perspective [[paper](https://arxiv.org/pdf/2507.01925)]
+- [2025] A Survey on Vision-Language-Action Models for Autonomous Driving [[paper](https://arxiv.org/pdf/2506.24044)] [[project](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)]  
+- [2025] Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends [[paper](https://arxiv.org/pdf/2506.20966)] [[project](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]  
+- [2025] [**IJRR 25**] Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 
-
-
-
+---
 ## 🔗 Quick Navigation
 - [Our-Publications](#Our-Publications) | [AAAI-2026](#AAAAI-2026) | [NIPS-2025](#NIPS-2025) | [Journal-2025](#Journal-2025) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [Earlier](#earlier)
 
