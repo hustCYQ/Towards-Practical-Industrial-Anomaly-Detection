@@ -18,7 +18,7 @@
 
 
 ## 🔗 Quick Navigation
-- [2025](#2025) | [2024](#2024) | [2023](#2023) | [Earlier](#earlier)
+- [Our Publications](#Our Publications) | [AAAI-2026](#AAAAI-2026) | [NIPS-2025](#NIPS-2025) | [Journal-2025](#Journal-2025) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [Earlier](#earlier)
 
 ---
 
