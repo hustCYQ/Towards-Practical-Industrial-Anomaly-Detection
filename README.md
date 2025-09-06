@@ -1,4 +1,4 @@
-# 📚 **Awesome Industrial Anomaly Detection**
+# **Towards Practical Industrial Anomaly Detection**
 
 ---
 ## 🏅 Recent Featured Papers
