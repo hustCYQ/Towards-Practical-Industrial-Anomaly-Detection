@@ -35,7 +35,7 @@ Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/M
 ## AAAI-2026
 
 <details open>
-<summary>📚 Show/Hide 2025 Papers</summary>
+<summary>📚 Show/Hide AAAI-2026 Papers</summary>
 
 
 - [2025] Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2508.13073)] [[project](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)]  [![AAAA](https://img.shields.io/badge/AAAA-BBBBB-blue)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
@@ -74,7 +74,7 @@ Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/M
 ## NIPS-2025
 
 <details open>
-<summary>📚 Show/Hide 2024 Papers</summary>
+<summary>📚 Show/Hide NIPS-2025 Papers</summary>
 
 - A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
@@ -90,7 +90,7 @@ Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/M
 ## ICCV-2025
 
 <details open>
-<summary>📚 Show/Hide 2024 Papers</summary>
+<summary>📚 Show/Hide ICCV-2025 Papers</summary>
 
 - A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
@@ -106,7 +106,7 @@ Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/M
 ## CVPR-2025
 
 <details open>
-<summary>📚 Show/Hide 2024 Papers</summary>
+<summary>📚 Show/Hide CVPR-2025 Papers</summary>
 
 - A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
@@ -121,7 +121,7 @@ Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/M
 ## IJCAI-2025
 
 <details open>
-<summary>📚 Show/Hide 2024 Papers</summary>
+<summary>📚 Show/Hide IJCAI-2025 Papers</summary>
 
 - A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
@@ -137,7 +137,7 @@ Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/M
 ## Journal-2025
 
 <details open>
-<summary>📚 Show/Hide 2024 Papers</summary>
+<summary>📚 Show/Hide Journal-2025 Papers</summary>
 
 - A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
@@ -160,7 +160,7 @@ Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/M
 ## Summary-before-2025
 
 <details open>
-<summary>📚 Show/Hide 2024 Papers</summary>
+<summary>📚 Show/Hide Summary-before-2025 Papers</summary>
 
 - A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
