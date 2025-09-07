@@ -262,6 +262,21 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 
 
 
+## BibTex Citation
+
+If you find this paper and repository useful, please cite our paper☺️.
+
+```
+@article{ADSurvey,
+  title={A comprehensive survey for real-world industrial defect detection: Challenges, approaches, and prospects},
+  author={Cheng, Yuqi and Cao, Yunkang and Yao, Haiming and Luo, Wei and Jiang, Cheng and Zhang, Hui and Shen, Weiming},
+  journal={arXiv preprint arXiv:2507.13378},
+  year={2025}
+}
+```
+## Star History
+
+[![Star History Chart](https://www.star-history.com/#hustCYQ/Towards-Practical-Industrial-Anomaly-Detection&Date)](https://www.star-history.com/#hustCYQ/Towards-Practical-Industrial-Anomaly-Detection&Date)
 
 
 
