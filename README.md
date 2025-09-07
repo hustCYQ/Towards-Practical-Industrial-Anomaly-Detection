@@ -50,8 +50,8 @@
 <details open>
 <summary>📚 Show/Hide 2024 Papers</summary>
 
-Template: Paper_name [Paper]() [Code]()  [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue?style=flat-square)](#)
- - A Survey on Vision-Language-Action Models: An Action Tokenization Perspective. [Paper]() [Code]() [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue?style=flat-square)](#)
+Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue)](#)
+ - A Survey on Vision-Language-Action Models: An Action Tokenization Perspective. [[Paper]()] [[Code]()] [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue)](#)
 
 
 
