@@ -47,10 +47,6 @@
 
 ## BenchMark
 
-<details open>
-<summary>📚 Show/Hide BenchMark Papers</summary>
-
-# Recommended Benchmarks
 |  Name  |   Venue  |   Date   |   Source   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | MVTec | XXXX | 2022 | paper name+link | image |
@@ -60,7 +56,7 @@
 
 
 
-</details>
+
 
 ---
 
