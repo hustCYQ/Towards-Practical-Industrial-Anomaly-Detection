@@ -1,4 +1,4 @@
-# **Towards Practical Industrial Anomaly Detection**
+# **Towards Practical Industrial Anomaly Detection** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 ## To do list
