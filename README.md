@@ -276,9 +276,7 @@ If you find this paper and repository useful, please cite our paper☺️.
 ```
 ## Star History
 
-[![Star History Chart](https://www.star-history.com/#hustCYQ/Towards-Practical-Industrial-Anomaly-Detection&Date)](https://www.star-history.com/#hustCYQ/Towards-Practical-Industrial-Anomaly-Detection&Date)
-
-
+[![Star History Chart](https://api.star-history.com/svg?repos=hustCYQ/Towards-Practical-Industrial-Anomaly-Detection&type=Date)](https://www.star-history.com/#hustCYQ/Towards-Practical-Industrial-Anomaly-Detection&Date)
 
 
 
