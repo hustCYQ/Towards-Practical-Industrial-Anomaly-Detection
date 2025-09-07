@@ -41,6 +41,7 @@
 - Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
 </details>
+
 ---
 
 
@@ -60,6 +61,7 @@
 
 
 </details>
+
 ---
 
 
