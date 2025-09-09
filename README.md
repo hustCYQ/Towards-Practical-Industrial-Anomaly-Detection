@@ -1,5 +1,10 @@
 # **Towards Practical Industrial Anomaly Detection** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+As more and more outstanding vision-language-based policies emerge, this repository aims to organize and showcase the state-of-the-art technologies in robot learning, including vision-language-action (VLA) models, vision-language-navigation (VLN) models, vision-action (VA) models and other MLLM-based embodied learning. We hope that in the near future, robotics will experience its own 'LLM moment.'
+
+This repository will be continuously updated, and we warmly invite contributions from the community. If you have any papers, projects, or resources that are not yet included, please feel free to submit them via a pull request or open an issue for discussion.
+
+Let's build a comprehensive resource for the robotics and AI community!
 
 ## To do list
 1. 汇总综述里边所有相关论文的标题、出版物；按照综述中的类别填入[Summary-before-2025].更小的目录用tag来表示，例如基于重建的方法可以用[![Info](https://img.shields.io/badge/Method-Reconstruction-blue)](#). 基于异常合成的可以用[![Info](https://img.shields.io/badge/Method-Generation-yellow)](#). 每个颜色有区别一些
