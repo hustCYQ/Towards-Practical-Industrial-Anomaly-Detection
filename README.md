@@ -162,7 +162,7 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 <details open>
 <summary>📚 Show/Hide CVPR-2025 Papers</summary>
 
-- DFM: Differentiable Feature Matching for Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_DFM_Differentiable_Feature_Matching_for_Anomaly_Detection_CVPR_2025_paper.pdf)] [[code](https://github.com/wyattxuanyang/DFM)]  [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue)](#)
+- DFM: Differentiable Feature Matching for Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_DFM_Differentiable_Feature_Matching_for_Anomaly_Detection_CVPR_2025_paper.pdf)] [[code](https://github.com/wyattxuanyang/DFM)]  [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+ MVTec AD and VisA-blue)](#)
 - A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 - Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
