@@ -225,6 +225,12 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 #### 📊Unsupervised 
 - Imagenet classification with deep convolutional neural networks [[paper](https://dl.acm.org/doi/pdf/10.1145/3065386)]  [[code](https://github.com/dansuh17/alexnet-pytorch?tab=readme-ov-file)]  [![Info](https://img.shields.io/badge/Model-CNN-blue)](#)
 - Fast R–CNN [[paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)]  [[code](https://github.com/rbgirshick/fast-rcnn)]  [![Info](https://img.shields.io/badge/Model-Fast_R–CNN-blue)](#)
+- Faster R-CNN: Towards real-time object detection with region proposal networks [[paper](https://ieeexplore.ieee.org/document/7485869)]  [[code](https://github.com/ShaoqingRen/faster_rcnn)]  [![Info](https://img.shields.io/badge/Model-Faster_R–CNN-blue)](#)
+- You Only Look Once: Unified, real-time object detection [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)]  [[code](https://github.com/pjreddie/darknet)]  [![Info](https://img.shields.io/badge/Model-YOLO-blue)](#)
+- YOLOv10: Real-time end-to-end object detection [[paper](https://neurips.cc/virtual/2024/poster/93301)]  [[code](https://github.com/THU-MIG/yolov10)]  [![Info](https://img.shields.io/badge/Model-YOLO-blue)](#)
+- An image is worth 16x16 words: Transformers for image recognition at scale (ViT) [[paper](https://openreview.net/pdf?id=YicbFdNTTy)]  [[code](https://github.com/google-research/vision_transformer)]  [![Info](https://img.shields.io/badge/Model-VisionTransformers-blue)](#)
+- Dinov2: Learning robust visual features without supervision [[paper](https://arxiv.org/abs/2304.07193)]  [[code](https://github.com/facebookresearch/dinov2)]  [![Info](https://img.shields.io/badge/Model-FoundationModels-blue)](#)
+- Cas-vswin transformer: A variant swin transformer for surface-defect detection [[paper](https://www.sciencedirect.com/science/article/pii/S0166361522000860)]  [[code](https://github.com/microsoft/Swin-Transformer)]  [![Info](https://img.shields.io/badge/Model-Initial_approaches_adapted_object_detection_frameworks_to_industrial_contexts-blue)](#)
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 - Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
