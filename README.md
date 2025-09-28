@@ -223,8 +223,8 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 
 ### 2D ANOMALY DETECTION
 #### 📊Unsupervised 
-- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
-- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- Imagenet classification with deep convolutional neural networks [[paper](https://dl.acm.org/doi/pdf/10.1145/3065386)]  [[code](https://github.com/dansuh17/alexnet-pytorch?tab=readme-ov-file)]  [![Info](https://img.shields.io/badge/Model-CNN-blue)](#)
+- Fast R-CNN [[paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)]  [[code](https://github.com/rbgirshick/fast-rcnn)]  [![Info](https://img.shields.io/badge/Model-Fast R-CNN-blue)](#)
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 - Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
