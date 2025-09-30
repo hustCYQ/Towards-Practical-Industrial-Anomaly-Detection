@@ -2,9 +2,9 @@
 
 As the field of anomaly detection rapidly evolves, this repository is dedicated to collecting and organizing cutting-edge methods across both 2D and 3D domains. Our goal is to provide a clear and structured overview of the latest techniques that push the boundaries of unsupervised, semi-supervised, and zero-shot anomaly detection. 🚀🚀🚀
 
-This repository is continuously maintained and updated. We warmly welcome contributions from the community. if you have relevant papers, datasets, codebases, or insightful resources that are not yet included, feel free to open a pull request or raise an issue for discussion. 🙋🙋🙋
+This repository is continuously **maintained and updated**. We warmly welcome contributions from the community. if you have **relevant papers, datasets, codebases, or insightful resources** that are not yet included, feel free to open a pull request or raise an issue for discussion. 🙋🙋🙋
 
-Let’s work together to build a comprehensive, high-quality resource for the anomaly detection research and engineering community! 💡💡💡
+Let’s **work together** to build a comprehensive, high-quality resource for the anomaly detection research and engineering community! 💡💡💡
 
 
 
