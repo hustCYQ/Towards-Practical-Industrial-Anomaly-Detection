@@ -230,7 +230,7 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 ## Summary-before-2025
 
 ### 2D ANOMALY DETECTION
-#### 📊Unsupervised 
+#### 📊 Unsupervised 
 - TEXEMS: Texture Exemplars for Defect Detection on Random Textured Surfaces [[paper](https://ieeexplore.ieee.org/document/4250469)]  [![Info](https://img.shields.io/badge/Model-handcrafted_features-blue)](#)
 - CutPaste: Self-Supervised Learning for Anomaly Detection and Localization [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_CutPaste_Self-Supervised_Learning_for_Anomaly_Detection_and_Localization_CVPR_2021_paper.pdf)]  [[code](https://github.com/LilitYolyan/CutPaste)]  [![Info](https://img.shields.io/badge/Model-self–supervised_representations-blue)](#)
 - Natural synthetic anomalies for self-supervised anomaly detection and localization [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_27)]  [[code](https://github.com/hmsch/natural-synthetic-anomalies)]  [![Info](https://img.shields.io/badge/Model-self–supervised_representations-blue)](#)
@@ -332,7 +332,7 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 - Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)]  [[code](https://github.com/xzhang-t/DiffAD)]  [![Info](https://img.shields.io/badge/Model-Discrimination--based_Methods-blue)](#)
 
 
-#### 📊Semi-supervised
+#### 📊 Semi-supervised
 - Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Catching_Both_Gray_and_Black_Swans_Open-Set_Supervised_Anomaly_Detection_CVPR_2022_paper.pdf)]  [[code](https://github.com/Choubo/DRA)]  [![Info](https://img.shields.io/badge/Model-open–set_anomaly_detection-blue)](#)
 - Explainable Deep Few shot Anomaly Detection with Deviation Networks [[paper](https://arxiv.org/abs/2108.00462)]  [[code](https://github.com/mala-lab/deviation-network-image)]  [![Info](https://img.shields.io/badge/Model-open–set_anomaly_detection-blue)](#)
 - Deep one-class classification [[paper](https://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf)]  [[code](https://github.com/lukasruff/Deep-SVDD)]  [![Info](https://img.shields.io/badge/Model-open–set_anomaly_detection-blue)](#)
@@ -349,7 +349,7 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 - Semi-supervised noise-resilient anomaly detection with feature autoencoder [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124010797)]  [![Info](https://img.shields.io/badge/Model-a_self–cross_scoring_mechanism_and_feature_AutoEncoder-blue)](#)
 
 
-#### 📊Zero/Few-shot 
+#### 📊 Zero/Few-shot 
 - Registration based few–shot anomaly detection [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840300.pdf)]  [[code](https://github.com/MediaBrain-SJTU/RegAD)]  [![Info](https://img.shields.io/badge/Model-Vanilla_Few–Shot_Anomaly_Detection-blue)](#)
 - Few–Shot Anomaly Detection via Category-Agnostic Registration Learning [[paper](https://ieeexplore.ieee.org/document/10704738)]  [![Info](https://img.shields.io/badge/Model-Vanilla_Few–Shot_Anomaly_Detection-blue)](#)
 - Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[paper](https://openreview.net/pdf?id=xzmqxHdZAwO)]  [![Info](https://img.shields.io/badge/Model-Vanilla_Few–Shot_Anomaly_Detection-blue)](#)
@@ -399,7 +399,7 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 ---
 ### 3D ANOMALY DETECTION
 
-#### 📊Point Cloud
+#### 📊 Point Cloud
 - PointNet: Deep learning on point sets for 3D classification and segmentation [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html)]  [[code](https://github.com/charlesq34/pointnet)]  [![Info](https://img.shields.io/badge/Model-3D_Point_Cloud_Anomaly_Detection-blue)](#)
 - Anomaly detection in 3D point clouds using deep geometric descriptors [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Bergmann_Anomaly_Detection_in_3D_Point_Clouds_Using_Deep_Geometric_Descriptors_WACV_2023_paper.pdf)]  [![Info](https://img.shields.io/badge/Model-3D_Point_Cloud_Anomaly_Detection-blue)](#)
 - Toward unsupervised 3D point cloud anomaly detection using variational autoencoder [[paper](http://hvrl.ics.keio.ac.jp/paper/pdf/international_Conference/2021/ICIP2021_masuda.pdf)]  [[code](https://github.com/llien30/point_cloud_anomaly_detection)]  [![Info](https://img.shields.io/badge/Model-3D_Point_Cloud_Anomaly_Detection-blue)](#)
@@ -427,7 +427,7 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 - Automatic point cloud clustering method for surface defect diagnosis [[paper](https://ieeexplore.ieee.org/document/10887345)]  [![Info](https://img.shields.io/badge/Model-3D_Point_Cloud_Anomaly_Detection-blue)](#)
 
 
-#### 📊Multi-modal-based
+#### 📊 Multi-modal-based
 - Multimodal industrial anomaly detection via hybrid fusion [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Multimodal_Industrial_Anomaly_Detection_via_Hybrid_Fusion_CVPR_2023_paper.pdf)]  [[code](https://github.com/nomewang/M3DM)]  [![Info](https://img.shields.io/badge/Model-Multimodal_Feature_Fusion-blue)](#)
 - Shape–guided dual-memory learning for 3D anomaly detection [[paper](https://openreview.net/pdf?id=IkSGn9fcPz)]  [[code](https://github.com/jayliu0313/Shape-Guided)]  [![Info](https://img.shields.io/badge/Model-Multimodal_Feature_Fusion-blue)](#)
 - Asymmetric student–teacher networks for industrial anomaly detection [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Rudolph_Asymmetric_Student-Teacher_Networks_for_Industrial_Anomaly_Detection_WACV_2023_paper.pdf)]  [[code](https://github.com/marco-rudolph/ast)]  [![Info](https://img.shields.io/badge/Model-Multimodal_Feature_Fusion-blue)](#)
