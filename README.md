@@ -154,10 +154,26 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 <details open>
 <summary>📚 Show/Hide ICCV-2025 Papers</summary>
 
-- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
-- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
-- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
-- Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+- Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning [[paper](https://arxiv.org/abs/2508.02293)]  [![Info](https://img.shields.io/badge/Model-Unsupervised_Anomaly_Detection-blue)](#)
+- SALAD -- Semantics-Aware Logical Anomaly Detection [[paper](https://arxiv.org/abs/2509.02101)]  [[code](https://github.com/MaticFuc/SALAD)]  [![Info](https://img.shields.io/badge/Model-Semantics–Aware_Anomaly_Detection-blue)](#)
+- Salvaging the Overlooked: Leveraging Class-Aware Contrastive Learning for Multi–Class Anomaly Detection [[paper](https://arxiv.org/abs/2412.04769)]  [[code](https://github.com/LGC-AD/AD-LGC)]  [![Info](https://img.shields.io/badge/Model-Multi–Class_Anomaly_Detection-blue)](#)
+- Toward Long-Tailed Online Anomaly Detection through Class-Agnostic Concepts [[paper](https://arxiv.org/abs/2507.16946)]  [![Info](https://img.shields.io/badge/Model-Long–Tailed_Anomaly_Detection-blue)](#)
+- Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[paper](https://arxiv.org/abs/2505.24431)]  [[code](https://github.com/ZZZBBBZZZ/PASDF)]  [![Info](https://img.shields.io/badge/Model-3D_Anomaly_Localization-blue)](#)
+- DecAD: Decoupling Anomalies in Latent Space for Multi–Class Unsupervised Anomaly Detection [[code](https://github.com/wxl1122/DecAD)]  [![Info](https://img.shields.io/badge/Model-Multi–Class_Unsupervised_Anomaly_Detection-blue)](#)
+- RareCLIP: Rarity-aware Online Zero–shot Industrial Anomaly Detection [[code](https://github.com/hjf02/RareCLIP)]  [![Info](https://img.shields.io/badge/Model-Zero–shot_Industrial_Anomaly_Detection-blue)](#)
+- FIND: Few–Shot Anomaly Inspection with Normal-Only Multi–Modal Data [![Info](https://img.shields.io/badge/Model-Few–Shot_Multi–Modal_Anomaly_Detection-blue)](#)
+- FE-CLIP: Frequency Enhanced CLIP Model for Zero–Shot Anomaly Detection and Segmentation [![Info](https://img.shields.io/badge/Model-Zero–Shot_Anomaly_Detection_and_Segmentation-blue)](#)
+- SeaS: Few–shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[paper](https://arxiv.org/pdf/2410.14987)]  [[code](https://github.com/HUST-SLOW/SeaS)]  [![Info](https://img.shields.io/badge/Model-Few–shot_Anomaly_Image_Generation-blue)](#)
+- DictAS: A Framework for Class-Generalizable Few–Shot Anomaly Segmentation via Dictionary Lookup [[paper](https://www.arxiv.org/abs/2508.13560)]  [[code](https://github.com/xiaozhen228/DictAS)]  [![Info](https://img.shields.io/badge/Model-Few–Shot_Anomaly_Segmentation-blue)](#)
+- MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero–Shot Learning [[paper](https://arxiv.org/abs/2504.06740)]  [[code](https://github.com/boschresearch/MultiADS)]  [![Info](https://img.shields.io/badge/Model-Zero–Shot_Multi-type_Anomaly_Detection-blue)](#)
+- Fine-grained Abnormality Prompt Learning for Zero–shot Anomaly Detection [[paper](https://arxiv.org/pdf/2410.10289)]  [[code](https://github.com/mala-lab/faprompt)]  [![Info](https://img.shields.io/badge/Model-Zero–shot_Abnormality_Prompt_Learning-blue)](#)
+- Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application [[code](https://github.com/Bingyang0410/CPS2D-AD)]  [![Info](https://img.shields.io/badge/Model-Large_Vision_Model–based_Anomaly_Detection-blue)](#)
+- ReMP-AD: Retrieval-enhanced Multi-modal Prompt Fusion for Few–Shot Industrial Visual Anomaly Detection [[code](https://github.com/cshcma/ReMP-AD)]  [![Info](https://img.shields.io/badge/Model-Few–Shot_Multi–modal_Anomaly_Detection-blue)](#)
+- G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection [[paper](https://arxiv.org/abs/2503.10091)]  [[code](https://github.com/ctaoaa/G2SF)]  [![Info](https://img.shields.io/badge/Model-Multimodal_Industrial_Anomaly_Detection-blue)](#)
+- SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark [[paper](https://arxiv.org/abs/2506.21549)]  [![Info](https://img.shields.io/badge/Model-3D_Anomaly_Detection_Benchmark-blue)](#)
+- Triad: Empowering LMM-based Anomaly Detection with Expert-guided Region-of-Interest Tokenizer and Manufacturing Process [[paper](https://arxiv.org/pdf/2503.13184v2)]  [[code](https://github.com/tzjtatata/Triad/)]  [![Info](https://img.shields.io/badge/Model-LMM–based_Anomaly_Detection-blue)](#)
+- DFM: Differentiable Feature Matching for Anomaly Detection [[paper](https://arxiv.org/abs/xxxx.xxxx)]  [[code](https://github.com/wyattxuanyang/DFM)]  [![Info](https://img.shields.io/badge/Model-Differentiable_Feature_Matching–based_Anomaly_Detection-blue)](#)
+- Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Advancing_Generalizable_Tumor_Segmentation_with_Anomaly-Aware_Open-Vocabulary_Attention_Maps_and_CVPR_2025_paper.pdf)]  [[code](https://github.com/Yankai96/DiffuGTS)]  [![Info](https://img.shields.io/badge/Model-Anomaly–Aware_Tumor_Segmentation-blue)](#)
 
 </details>
 
