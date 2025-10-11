@@ -209,10 +209,28 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 <details open>
 <summary>📚 Show/Hide IJCAI-2025 Papers</summary>
 
-- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
-- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
-- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
-- Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+- Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/80.pdf)]
+- INFP: INdustrial Video Anomaly Detection via Frequency Prioritization [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/113.pdf)]  [[code](https://github.com/YuQianzi/INFP)]
+- Template3D-AD: Point Cloud Template Matching Method Based on Center Points for 3D Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/240.pdf)]
+- Free Lunch of Image-mask Alignment for Anomaly Image Generation and Segmentation [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/641.pdf)]
+- HyperTrans: Efficient Hypergraph-Driven Cross-Domain Pattern Transfer in Image Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1032.pdf)]  [[code](https://github.com/raRn0y/HyperTrans)]
+- DriftRemover: Hybrid Energy Optimizations for Anomaly Images Synthesis and Segmentation [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1044.pdf)]  [[code](https://github.com/JJessicaYao/DriftRemover)]
+- Underground Diagnosis in 3D GPR Data by Learning in CuCoRes Model Space [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1175.pdf)]
+- Exploiting Self-Refining Normal Graph Structures for Robust Defense against Unsupervised Adversarial Attacks [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2292.pdf)]
+- Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2337.pdf)]
+- Prototype-based Optimal Transport for Out-of-Distribution Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2661.pdf)]
+- FedDLAD: A Federated Learning Dual-Layer Anomaly Detection Framework for Enhancing Resilience Against Backdoor Attacks [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3425.pdf)]
+- Dual Encoder Contrastive Learning with Augmented Views for Graph Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3883.pdf)]
+- GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4461.pdf)]  [[code](https://github.com/kgccc/GCTAM)]
+- NAAST-GNN: Neighborhood Adaptive Aggregation and Spectral Tuning for Graph Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4545.pdf)]
+- ABNet: Mitigating Sample Imbalance in Anomaly Detection Within Dynamic Graphs [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/5170.pdf)]
+- ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/5317.pdf)]  [[code](https://github.com/HULEI7/ReplayCAD)]
+- MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi–category 3D Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/5901.pdf)]  [[code](https://github.com/jiayi-art/MC3D-AD)]
+- Omni-Dimensional State Space Model-driven SAM for Pixel-level Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6311.pdf)]
+- A Novel Sparse Active Online Learning Framework for Fast and Accurate Streaming Anomaly Detection Over Data Streams [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6819.pdf)]
+- RTdetector: Deep Transformer Networks for Time Series Anomaly Detection Based on Reconstruction Trend [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/7398.pdf)]
+- MEGAD: A Memory-Efficient Framework for Large-Scale Attributed Graph Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/7578.pdf)]
+- Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero–Shot Industrial Anomaly Detection [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8054.pdf)]
 
 </details>
 
