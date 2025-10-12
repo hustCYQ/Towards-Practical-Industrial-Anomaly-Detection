@@ -282,6 +282,14 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 <summary>📚 Show/Hide Journal-2025 Papers</summary>
 
 - DiffusionAD: Norm-Guided One-Step Denoising Diffusion for Anomaly Detection [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11005495)]  [[code](https://github.com/HuiZhang0812/DiffusionAD)]
+- VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[paper](https://ieeexplore.ieee.org/abstract/document/10843956)]  [[code](https://github.com/caoyunkang/VarAD)]
+- Center-Aware Residual Anomaly Synthesis for Multiclass Industrial Anomaly Detection [[paper](https://arxiv.org/pdf/2505.17551)]  [[code](https://github.com/cqylunlun/CRAS)]
+- Multitask Hybrid Knowledge Distillation for Unsupervised Anomaly Detection [[paper](https://ieeexplore.ieee.org/abstract/document/10970077)]
+- Cross-Scale Denoising Reverse Distillation for Anomaly Detection [[paper](https://ieeexplore.ieee.org/abstract/document/11075768)]
+- Dynamic Expert Routing for Unsupervised Continual Anomaly Detection [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11046350)]
+- Knowledge Distillation-Based Anomaly Detection via Adaptive Discrepancy Optimization [[paper](https://ieeexplore.ieee.org/abstract/document/11031083)]
+- Multimodal Industrial Anomaly Detection via Uni-Modal and Cross-Modal Fusion [[paper](https://ieeexplore.ieee.org/abstract/document/10948502)]
+- IIIM-SAM: Zero–Shot Texture Anomaly Detection Without External Prompts [[paper](https://ieeexplore.ieee.org/abstract/document/10967541)]
 - Deep feature clustering for multi–class industrial image anomaly detection [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001819)]
 - SAM-LAD: Segment Anything Model meets zero–shot logic anomaly detection [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125002230)]
 - Integrating local and global correlations with Mamba-Transformer for multi–class anomaly detection [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125007865)]  [[code](https://github.com/Mazeqi/MTAD-KBS)]
