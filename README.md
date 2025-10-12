@@ -61,7 +61,7 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 ## BenchMark
 
 |  Name  |   Venue  |   Date   |   Source   |   Modality   |
-|--------|----------|----------|------------|--------------|
+|:--------:|----------|----------|:------------:|--------------|
 | MVTec | IJCV | 2021 | The MVTec anomaly detection dataset: A comprehensive real-world dataset for unsupervised anomaly detection [[paper](https://www.researchgate.net/publication/348278659_The_MVTec_Anomaly_Detection_Dataset_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_Detection	)]  [[code](https://github.com/liujiyuan13/MVTecAD	)] [[download](https://www.mvtec.com/company/research/datasets/mvtec-ad)]| Image |
 | BTAD | ISIE | 2021 | A vision transformer network for image anomaly detection and localization [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9576231)]  [[code](https://github.com/pankajmishra000/VT-ADL)] [[download](https://datasetninja.com/btad)]| Image |
 | VisA | ECCV | 2022 | Spot-thedifference self-supervised pre-training for anomaly detection and segmentation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-20056-4_23)]  [[code](https://github.com/amazon-science/spot-diff)] [[download](https://github.com/amazon-science/spot-diff#data-download)] | Image |
