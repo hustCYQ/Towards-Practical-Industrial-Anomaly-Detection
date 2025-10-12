@@ -281,10 +281,15 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 <details open>
 <summary>📚 Show/Hide Journal-2025 Papers</summary>
 
-- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
-- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
-- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
-- Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+- DiffusionAD: Norm-Guided One-Step Denoising Diffusion for Anomaly Detection [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11005495)]  [[code](https://github.com/HuiZhang0812/DiffusionAD)]
+- Deep feature clustering for multi–class industrial image anomaly detection [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001819)]
+- SAM-LAD: Segment Anything Model meets zero–shot logic anomaly detection [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125002230)]
+- Integrating local and global correlations with Mamba-Transformer for multi–class anomaly detection [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125007865)]  [[code](https://github.com/Mazeqi/MTAD-KBS)]
+- DC-AD: A Divide-and-Conquer Method for Few–Shot Anomaly Detection [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325000202)]
+- SoftPatch+: Fully unsupervised anomaly classification and segmentation [[paper](https://www.sciencedirect.com/science/article/pii/S003132032401046X#fig6)]  [[code](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)]
+- MSAttnFlow: Normalizing flow for unsupervised anomaly detection with multi–scale attention [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009713)]
+- Hard-Normal Example-Aware Template Mutual Matching for Industrial Anomaly Detection [[paper](https://link.springer.com/article/10.1007/s11263-024-02323-0)]  [[code](https://github.com/NarcissusEx/HETMM)]
+- A novel FuseDecode Autoencoder for industrial visual inspection: Incremental anomaly detection improvement with gradual transition from unsupervised to mixed-supervision learning with reduced human effort [[paper](https://www.sciencedirect.com/science/article/pii/S016636152400126X)]
 
 </details>
 
