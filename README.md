@@ -256,10 +256,16 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 <details open>
 <summary>📚 Show/Hide AAAI-2025 Papers</summary>
 
-- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
-- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
-- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
-- Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+- FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[paper](https://arxiv.org/abs/2412.10115)]  [[code](https://github.com/znchen666/FiCo)]
+- Unlocking the Potential of Reverse Distillation for Anomaly Detection [[paper](https://arxiv.org/abs/2412.07579)]  [[code](https://github.com/hito2448/URD)]
+- CNC: Cross-modal Normality Constraint for Unsupervised Multi–class Anomaly Detection [[paper](https://arxiv.org/abs/2501.00346)]  [[code](https://github.com/cvddl/CNC)]
+- CKAAD: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning [[paper](https://arxiv.org/abs/2412.12850)]  [[code](https://github.com/Faustinaqq/CKAAD)]
+- Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[paper](https://arxiv.org/abs/2412.13461)]  [[code](https://github.com/M-3LAB/Look-Inside-for-More)]
+- MVREC: A General Few–shot Defect Classification Model Using Multi-View Region-Context [[paper](https://arxiv.org/abs/2412.16897)]
+- Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective [[paper](https://arxiv.org/abs/2412.17297)]
+- KAG-prompt: Kernel-Aware Graph Prompt Learning for Few–Shot Anomaly Detection [[paper](https://arxiv.org/abs/2412.17619)]  [[code](https://github.com/CVL-hub/KAG-prompt)]
+- Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning [[paper](https://arxiv.org/abs/2411.17217)]  [[code](https://github.com/THU-MIG/SAM-SPT)]
+- 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[paper](https://arxiv.org/abs/2502.05761)]  [[code](https://github.com/EnquanYang2022/3CAD)]
 
 </details>
 
