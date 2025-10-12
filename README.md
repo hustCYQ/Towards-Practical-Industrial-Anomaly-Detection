@@ -195,9 +195,14 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 ## ICML-2025
 
 <details open>
-<summary>📚 Show/Hide IJCAI-2025 Papers</summary>
+<summary>📚 Show/Hide ICML-2025 Papers</summary>
 
-
+- CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[paper](https://arxiv.org/abs/2505.01476)]  [[code](https://github.com/ZHE-SAPI/CostFilter-AD)]
+- Demeaned Sparse: Efficient Anomaly Detection by Residual Estimate [[paper](https://openreview.net/forum?id=F06FPb0Mtu)]
+- OmiAD: One-Step Adaptive Masked Diffusion Model for Multi–class Anomaly Detection via Adversarial Distillation [[paper](https://openreview.net/forum?id=859NdHQv0Z)]
+- An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination [[paper](https://openreview.net/forum?id=FT5eOdWSWN)]
+- Demeaned Sparse: Efficient Anomaly Detection by Residual Estimate [[paper](https://openreview.net/pdf?id=F06FPb0Mtu)]
+  
 </details>
 
 ---
