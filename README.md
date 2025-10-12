@@ -36,7 +36,7 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark) | [AAAI-2026](#AAAI-2026) | [NIPS-2025](#NIPS-2025) | [ICCV-2025](#ICCV-2025) | [CVPR-2025](#CVPR-2025) | [IJCAI-2025](#IJCAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark) | [AAAI-2026](#AAAI-2026) | [NIPS-2025](#NIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [CVPR-2025](#CVPR-2025)  | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
