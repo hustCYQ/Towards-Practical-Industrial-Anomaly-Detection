@@ -36,7 +36,7 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark) | [NIPS-2025](#NIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -114,19 +114,6 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 
 
 
-## NIPS-2025
-
-<details open>
-<summary>📚 Show/Hide NIPS-2025 Papers</summary>
-
-- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
-- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
-- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
-- Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
-
-</details>
-
----
 
 
 
@@ -250,7 +237,33 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 
 ---
 
+## ICLR-2025
 
+<details open>
+<summary>📚 Show/Hide ICLR-2025 Papers</summary>
+
+- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+- Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+
+</details>
+
+---
+
+## AAAI-2025
+
+<details open>
+<summary>📚 Show/Hide AAAI-2025 Papers</summary>
+
+- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+- Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+
+</details>
+
+---
 
 
 
