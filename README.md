@@ -242,10 +242,10 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 <details open>
 <summary>📚 Show/Hide ICLR-2025 Papers</summary>
 
-- A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
-- A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
-- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
-- Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
+- One-for-All Few–Shot Anomaly Detection via Instance-Induced Prompt Learning [[paper](https://openreview.net/pdf?id=Zzs3JwknAY)]
+- Language-Assisted Feature Transformation for Anomaly Detection [[paper](https://openreview.net/pdf?id=2p03KljxE9)]
+- MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[paper](https://openreview.net/pdf?id=JDiER86r8v)]
+- Adversarially Robust Anomaly Detection through Spurious Negative Pair Mitigation [[paper](https://openreview.net/pdf?id=t8fu5m8R5m)]
 
 </details>
 
