@@ -36,7 +36,7 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark) | [NIPS-2025](#NIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [CVPR-2025](#CVPR-2025)  | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark) | [NIPS-2025](#NIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -191,6 +191,17 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 </details>
 
 ---
+
+## ICML-2025
+
+<details open>
+<summary>📚 Show/Hide IJCAI-2025 Papers</summary>
+
+
+</details>
+
+---
+
 
 ## CVPR-2025
 
