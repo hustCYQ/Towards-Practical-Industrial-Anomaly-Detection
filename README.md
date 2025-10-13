@@ -279,6 +279,8 @@ The official list of accepted papers will be updated here thereafter.
 - Multitask Hybrid Knowledge Distillation for Unsupervised Anomaly Detection [[TII](https://ieeexplore.ieee.org/abstract/document/10970077)]
 - Cross-Scale Denoising Reverse Distillation for Anomaly Detection [[TII](https://ieeexplore.ieee.org/abstract/document/11075768)]
 - Dynamic Expert Routing for Unsupervised Continual Anomaly Detection [[TII](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11046350)]
+- tGARD: Text-Guided Adversarial Reconstruction for Industrial Anomaly Detection [[TII](https://ieeexplore.ieee.org/document/11146401)]
+- TKDA: A Tensor-Based Knowledge Distillation Approach of Anomaly Detection for Industrial Cyber-Physical Intelligence [[TII](https://ieeexplore.ieee.org/document/11131479)]
 - Knowledge Distillation-Based Anomaly Detection via Adaptive Discrepancy Optimization [[TII](https://ieeexplore.ieee.org/abstract/document/11031083)]
 - Multimodal Industrial Anomaly Detection via Uni-Modal and Cross-Modal Fusion [[TII](https://ieeexplore.ieee.org/abstract/document/10948502)]
 - Feature Consistency Learning for Anomaly Detection [[TIM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10816187)]
