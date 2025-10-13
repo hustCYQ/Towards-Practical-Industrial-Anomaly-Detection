@@ -19,7 +19,7 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -96,7 +96,16 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 
 
 
+## NeurIPS-2025
 
+<details open>
+<summary>📚 Show/Hide NeurIPS-2025 Papers</summary>
+
+The official list of accepted papers will be updated here thereafter .
+
+</details>
+
+---
 
 
 
