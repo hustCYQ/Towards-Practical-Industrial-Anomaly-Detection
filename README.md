@@ -10,23 +10,6 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 
 
 
-
-
-
-
-## To do list
-1. 汇总综述里边所有相关论文的标题、出版物；按照综述中的类别填入[Summary-before-2025].更小的目录用tag来表示，例如基于重建的方法可以用[![Info](https://img.shields.io/badge/Method-Reconstruction-blue)](#). 基于异常合成的可以用[![Info](https://img.shields.io/badge/Method-Generation-yellow)](#). 每个颜色有区别一些
-2. [Summary-before-2025]中的模板为: Paper_name [[出版物]()] [[Code]()]  [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue)](#)
-3. 其他部分的模板为Paper_name [[paper]()] [[Code]()]  [![Info](https://img.shields.io/badge/Model-ViT_+_MemoryBank_+_Real3D--AD-blue)](#)
-4. 调研今年异常检测顶会的种类和顺序，修改 Quick Navigation，并更新到下边的标题内，打上tag，这个tag可以长一些，例如[![Info](https://img.shields.io/badge/Model-ViT_+2D+_CLIP-blue)](#)
-5. wos上检索期刊文章，仅2025年即可，重点在PAMI、IJCV、IEEE/ACM Trans，以及部分还不错的爱思唯尔期刊PR、KBS、AEI、JMS、CII等（要筛选，质量差的不需要列出来）
-6. 综述文章需要再检索一下，实时保持更新
-7. BenchMark直接将综述里边的数据集表格填充即可
-8. Recent Featured Papers可以放一些目前比较热门的（尤其是我们自己最近新发表的文章）
-9. Our-Publications 里边放一些我们发的比较好顶会和trans文章做宣传
-
-
-
 ---
 ## 🏅 Recent Featured Papers
 - A Survey on Vision-Language-Action Models: An Action Tokenization Perspective [[paper](https://arxiv.org/pdf/2507.01925)]
