@@ -1,4 +1,4 @@
-# **Towards Practical Industrial Anomaly Detection** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img width="354" height="77" alt="image" src="https://github.com/user-attachments/assets/dcb0453a-ff92-460a-8912-ddb33ae7b0cf" /># **Towards Practical Industrial Anomaly Detection** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 As the field of anomaly detection rapidly evolves, this repository is dedicated to collecting and organizing cutting-edge methods across both 2D and 3D domains. Our goal is to provide a clear and structured overview of the latest techniques that push the boundaries of unsupervised, semi-supervised, and zero-shot anomaly detection. 🚀🚀🚀
 
@@ -29,20 +29,38 @@ Gradually updated~
 <details open>
 <summary>📚 Show/Hide Survey Papers</summary>
 
-- Deep Learning for Anomaly Detection: A Review [[paper](https://dl.acm.org/doi/abs/10.1145/3439950?casa_token=Pema18vsZcMAAAAA:dmQEDeHAWA6ibZDoK5t_Ncie012v882dy8TYp7IX6KEoS15QTWunUFXwsIAGGoXG8SGY-zoJrYRX)]
-- A Comprehensive Survey of Anomaly Detection Algorithms [[paper](https://link.springer.com/article/10.1007/s40745-021-00362-9)]
-- A Survey on Unsupervised Anomaly Detection Algorithms for Industrial Images [[paper](https://ieeexplore.ieee.org/abstract/document/10144292)]
-- Deep Industrial Image Anomaly Detection: A Survey [[paper](https://link.springer.com/article/10.1007/s11633-023-1459-z)]
-- Deep Reinforcement Learning for Anomaly Detection: A Systematic Review [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9956995)]
-- Surface Defect Detection Methods for Industrial Products: A Review [[paper](https://www.mdpi.com/2076-3417/11/16/7657)]
-- Image-Based Surface Defect Detection Using Deep Learning: A Review [[paper](https://watermark02.silverchair.com/jcise_21_4_040801.pdf)]
-- Deep learning for unsupervised anomaly localization in industrial images: A survey [[paper](https://ieeexplore.ieee.org/abstract/document/9849507)]
-- Defect Detection Methods for Industrial Products Using Deep Learning Techniques: A Review [[paper](https://www.mdpi.com/1999-4893/16/2/95)]
-- A systematic review of deep learning approaches for surface defect detection in industrial applications [[paper](https://pdf.sciencedirectassets.com/271095/1-s2.0-S0952197623X00189/1-s2.0-S0952197623019012/main.pdf)]
-- A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection [[paper](https://www.sciencedirect.com/science/article/pii/S156625352500212X)]
-- A survey of deep learning for industrial visual anomaly detection [[paper](https://link.springer.com/article/10.1007/s10462-025-11287-7)]
-- Review of Surface-Defect Detection Methods for Industrial Products Based on Machine Vision [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11006646)]
-- A comprehensive survey of image synthesis approaches for Deep Learning-based surface defect detection in manufacturing [[paper](https://www.sciencedirect.com/science/article/pii/S0166361525001253)]
+- A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects [[arxiv](https://arxiv.org/pdf/2507.13378)]
+- Deep Learning for Anomaly Detection: A Review [[ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3439950?casa_token=Pema18vsZcMAAAAA:dmQEDeHAWA6ibZDoK5t_Ncie012v882dy8TYp7IX6KEoS15QTWunUFXwsIAGGoXG8SGY-zoJrYRX)]
+- A Comprehensive Survey of Anomaly Detection Algorithms [[Annals of Data Science](https://link.springer.com/article/10.1007/s40745-021-00362-9)]
+- A Survey on Unsupervised Anomaly Detection Algorithms for Industrial Images [[IEEE Access](https://ieeexplore.ieee.org/abstract/document/10144292)]
+- Deep Industrial Image Anomaly Detection: A Survey [[Machine Intelligence Research](https://link.springer.com/article/10.1007/s11633-023-1459-z)]
+- Deep Reinforcement Learning for Anomaly Detection: A Systematic Review [[IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9956995)]
+- Surface Defect Detection Methods for Industrial Products: A Review [[Applied Sciences](https://www.mdpi.com/2076-3417/11/16/7657)]
+- Image-Based Surface Defect Detection Using Deep Learning: A Review [[Journal of Computing and Information Science in Engineering](https://asmedigitalcollection.asme.org/computingengineering/article/21/4/040801/1094064/Image-Based-Surface-Defect-Detection-Using-Deep)]
+- Deep learning for unsupervised anomaly localization in industrial images: A survey [[IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/abstract/document/9849507)]
+- Defect Detection Methods for Industrial Products Using Deep Learning Techniques: A Review [[Algorithms](https://www.mdpi.com/1999-4893/16/2/95)]
+- A systematic review of deep learning approaches for surface defect detection in industrial applications [[Engineering Applications of Artificial Intelligence](https://pdf.sciencedirectassets.com/271095/1-s2.0-S0952197623X00189/1-s2.0-S0952197623019012/main.pdf)]
+- Surface defect detection methods for industrial products with imbalanced samples: A review of progress in the 2020s [[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S095219762301881X)]
+- A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection [[Information Fusion](https://www.sciencedirect.com/science/article/pii/S156625352500212X)]
+- A survey of deep learning for industrial visual anomaly detection [[Artificial Intelligence Review](https://link.springer.com/article/10.1007/s10462-025-11287-7)]
+- Review of Surface-Defect Detection Methods for Industrial Products Based on Machine Vision [[IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11006646)]
+- A comprehensive survey of image synthesis approaches for Deep Learning-based surface defect detection in manufacturing [[Computers in Industry](https://www.sciencedirect.com/science/article/pii/S0166361525001253)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
 
 ---
