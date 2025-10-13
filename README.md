@@ -292,6 +292,7 @@ The official list of accepted papers will be updated here thereafter.
 - LECLIP: Boosting Zero–Shot Anomaly Detection With Local Enhanced CLIP [[TIM](https://ieeexplore.ieee.org/document/11007048)]
 - VLDFNet: Views-Graph and Latent Feature Disentangled Fusion Network for Multimodal Industrial Anomaly Detection [[TIM](https://ieeexplore.ieee.org/document/11004494)]
 - DualFlow: Dual-Branch Flow for Unsupervised Anomaly Detection and Localization [[TIM](https://ieeexplore.ieee.org/document/10979555)]
+- PADiff: Reconstruction From Patch to Pixel With Normality-Guided Diffusion Model for Unsupervised Anomaly Localization [[TNNLS](https://ieeexplore.ieee.org/document/11038825)]  [[code](https://github.com/PaddlePaddle/PaDiff)]
 - Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi–Class Point Cloud Anomaly Detection [[TASE](https://ieeexplore.ieee.org/document/10898004)]  [[code](https://github.com/hustCYQ/GLFM-Multi-class-3DAD/)]
 - A Hierarchical Patch Feature Distribution Network for Industrial Multiscale Defect Detection [[TASE](https://ieeexplore.ieee.org/document/11123455)]
 - IIIM-SAM: Zero–Shot Texture Anomaly Detection Without External Prompts [[TASE](https://ieeexplore.ieee.org/abstract/document/10967541)]
