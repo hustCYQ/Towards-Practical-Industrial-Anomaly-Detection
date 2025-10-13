@@ -12,10 +12,8 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 
 ---
 ## 🏅 Recent Featured Papers
-- A Survey on Vision-Language-Action Models: An Action Tokenization Perspective [[paper](https://arxiv.org/pdf/2507.01925)]
-- A Survey on Vision-Language-Action Models for Autonomous Driving [[paper](https://arxiv.org/pdf/2506.24044)] [[project](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)]  
-- Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends [[paper](https://arxiv.org/pdf/2506.20966)] [[project](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]  
-- Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
+
+Gradually updated~
 
 ---
 ## 🔗 Quick Navigation
