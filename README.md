@@ -101,7 +101,7 @@ Template: Paper_name [[Paper]()] [[Code]()]  [![Info](https://img.shields.io/bad
 <details open>
 <summary>📚 Show/Hide NeurIPS-2025 Papers</summary>
 
-The official list of accepted papers will be updated here thereafter .
+The official list of accepted papers will be updated here thereafter.
 
 </details>
 
