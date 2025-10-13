@@ -19,7 +19,7 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Publications](#Our-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -77,7 +77,7 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 
 
 
-## **Our-Publications**
+## **Our-Recent-Publications**
 <details open>
 <summary>📚 Show/Hide</summary>
 
