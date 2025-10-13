@@ -273,6 +273,7 @@ The official list of accepted papers will be updated here thereafter.
 
 - DiffusionAD: Norm-Guided One-Step Denoising Diffusion for Anomaly Detection [[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11005495)]  [[code](https://github.com/HuiZhang0812/DiffusionAD)]
 - Personalizing Vision-Language Models With Hybrid Prompts for Zero–Shot Anomaly Detection [[TCYB](https://ieeexplore.ieee.org/document/10884560)]
+- Global-Regularized Neighborhood Regression for Efficient Zero–Shot Texture Anomaly Detection [[TSMC](https://ieeexplore.ieee.org/document/11130672)]  [[code](https://github.com/hmyao22/GRNR)]
 - VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[TII](https://ieeexplore.ieee.org/abstract/document/10843956)]  [[code](https://github.com/caoyunkang/VarAD)]
 - Center-Aware Residual Anomaly Synthesis for Multiclass Industrial Anomaly Detection [[TII](https://arxiv.org/pdf/2505.17551)]  [[code](https://github.com/cqylunlun/CRAS)]
 - Multitask Hybrid Knowledge Distillation for Unsupervised Anomaly Detection [[TII](https://ieeexplore.ieee.org/abstract/document/10970077)]
