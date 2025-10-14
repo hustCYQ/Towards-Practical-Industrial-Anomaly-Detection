@@ -29,7 +29,7 @@ Gradually updated~
 <details open>
 <summary>📚 Show/Hide Survey Papers</summary>
 
-- 🔥🔥A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects [[arxiv](https://arxiv.org/pdf/2507.13378)]
+- 🔥🔥A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects [[Arxiv](https://arxiv.org/pdf/2507.13378)]
 - Deep Learning for Anomaly Detection: A Review [[ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3439950?casa_token=Pema18vsZcMAAAAA:dmQEDeHAWA6ibZDoK5t_Ncie012v882dy8TYp7IX6KEoS15QTWunUFXwsIAGGoXG8SGY-zoJrYRX)]
 - A Comprehensive Survey of Anomaly Detection Algorithms [[Annals of Data Science](https://link.springer.com/article/10.1007/s40745-021-00362-9)]
 - A Survey on Unsupervised Anomaly Detection Algorithms for Industrial Images [[IEEE Access](https://ieeexplore.ieee.org/abstract/document/10144292)]
