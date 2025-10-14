@@ -1,4 +1,4 @@
-<img width="354" height="77" alt="image" src="https://github.com/user-attachments/assets/dcb0453a-ff92-460a-8912-ddb33ae7b0cf" /># **Towards Practical Industrial Anomaly Detection** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **Towards Practical Industrial Anomaly Detection** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 As the field of anomaly detection rapidly evolves, this repository is dedicated to collecting and organizing cutting-edge methods across both 2D and 3D domains. Our goal is to provide a clear and structured overview of the latest techniques that push the boundaries of unsupervised, semi-supervised, and zero-shot anomaly detection. 🚀🚀🚀
 
