@@ -132,7 +132,13 @@ Gradually updated~
 <details open>
 <summary>📚 Show/Hide NeurIPS-2025 Papers</summary>
 
-The official list of accepted papers will be updated here thereafter.
+- ReinAD: Towards Real-world Industrial Anomaly Detection with a Comprehensive Contrastive Dataset [[paper](https://openreview.net/pdf?id=wEH5YGPSTx)]
+- Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[paper](https://arxiv.org/abs/2510.16865)]
+- ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining [[paper](https://nips.cc/media/neurips-2025/Slides/116220.pdf)]
+- FAST: Foreground‑aware Diffusion with Accelerated Sampling Trajectory for Segmentation‑oriented Anomaly Synthesis [[paper](https://arxiv.org/abs/2509.20295)]
+- An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination [[paper](https://arxiv.org/abs/2510.21296)]
+- AnomalyCoT: A Multi-Scenario Chain-of-Thought Dataset for Multimodal Large Language Models [[paper](https://marine318.github.io/AnomalyCoT.github.io/AnomalyCoT__A_Multi_Scenario_Chain_of_Thought_Dataset_for_Multimodal_Large_Language_Models.pdf)]
+- Normal-Abnormal Guided Generalist Anomaly Detection [[poster](https://neurips.cc/virtual/2025/loc/san-diego/poster/116969)]  [[paper](https://arxiv.org/abs/2510.00495)]
 
 </details>
 
