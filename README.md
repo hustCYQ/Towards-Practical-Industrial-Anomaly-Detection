@@ -107,14 +107,14 @@ Gradually updated~
 <summary>📚 Show/Hide</summary>
 
 
- - [Survey-arXiv'25] A comprehensive survey for real-world industrial defect detection: Challenges, approaches, and prospects [[Paper](https://arxiv.org/abs/2507.13378)] [[Code](https://github.com/hustCYQ/Towards-Practical-Industrial-Anomaly-Detection)]
+ - [Survey-JMS'26] A comprehensive survey for real-world industrial defect detection: Challenges, approaches, and prospects [[Paper](https://arxiv.org/abs/2507.13378)] [[Code](https://github.com/hustCYQ/Towards-Practical-Industrial-Anomaly-Detection)]
  - [2D-CVPR'25] Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Exploring_Intrinsic_Normal_Prototypes_within_a_Single_Image_for_Universal_CVPR_2025_paper.html)] [[Code](https://github.com/luow23/INP-Former)]
  - [2D-arXiv'25] Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark [[Paper](https://arxiv.org/abs/2505.10996)] [[Code](https://github.com/hustCYQ/M2AD)]
  - [2D-TCYB'25] Personalizing Vision-Language Models with Hybrid Prompts for Zero-Shot Anomaly Detection [[Paper](https://ieeexplore.ieee.org/abstract/document/10884560)] [[Code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
  - [2D-ECCV'24] AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72761-0_4)] [[Code](https://github.com/caoyunkang/AdaCLIP)]
  - [3D-AAAI'26] Towards high-resolution 3d anomaly detection: A scalable dataset and real-time framework for subtle industrial defects [[Paper](https://arxiv.org/abs/2507.07435)] [[Code](https://github.com/hustCYQ/MiniShift-Simple3D)]
  - [3D-TASE'25] Boosting global-local feature matching via anomaly synthesis for multi-class point cloud anomaly detection [[Paper](https://ieeexplore.ieee.org/abstract/document/10898004)] [[Code](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)]
- - [3D-arXiv'24] Towards zero-shot point cloud anomaly detection: A multi-view projection framework [[Paper](https://arxiv.org/abs/2409.13162)] [[Code](https://github.com/hustCYQ/MVP-PCLIP)]
+ - [3D-TSMC'26] Towards zero-shot point cloud anomaly detection: A multi-view projection framework [[Paper](https://arxiv.org/abs/2409.13162)] [[Code](https://github.com/hustCYQ/MVP-PCLIP)]
  - [3D-PR'24] Complementary pseudo multimodal feature for point cloud anomaly detection [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324005120)] [[Code](https://github.com/caoyunkang/CPMF)]
 
 
