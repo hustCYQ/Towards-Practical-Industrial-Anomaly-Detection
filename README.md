@@ -127,31 +127,30 @@ Gradually updated~
 ## AAAI-2026
 
 <details open>
-<summary>📚 Show/Hide NeurIPS-2025 Papers</summary>
+<summary>📚 Show/Hide</summary>
 
-- Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects
-- Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation
-- IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection
-- FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI
-- CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection
-- Quality-Aware Language-Conditioned Local Auto Regressive Anomaly Synthesis and Detection
-- AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization
-- PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures
-- AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer
-- AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection
-- AnomalyPainter: Vision-Language-Diffusion Synergy for Realistic and Diverse Unseen Industrial Anomaly Synthesis
-- CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-based Anomaly Synthesis
-- ICAD-LLM: One-for-All Anomaly Detection via InContext Learning with Large Language Models
+- Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[Paper](https://arxiv.org/pdf/2507.07435)]
+- Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [[Paper](https://arxiv.org/abs/2511.10020)]
+- IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [[Paper](https://arxiv.org/abs/2508.09178)]
+- FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [[Paper](https://arxiv.org/abs/2511.12899)]
+- CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[Paper](https://arxiv.org/abs/2511.12909)]
+- Quality-Aware Language-Conditioned Local Auto Regressive Anomaly Synthesis and Detection [[Paper](https://arxiv.org/abs/2508.03539)]
+- AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[Paper](https://arxiv.org/abs/2508.04175)]
+- PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures [[Paper](https://arxiv.org/abs/2511.18116)]
+- AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [[Paper](https://arxiv.org/abs/2511.06687)]
+- AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[Paper](https://arxiv.org/abs/2508.06203)]
+- AnomalyPainter: Vision-Language-Diffusion Synergy for Realistic and Diverse Unseen Industrial Anomaly Synthesis [[Paper](https://arxiv.org/abs/2503.07253)]
+- CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-based Anomaly Synthesis 
+- ICAD-LLM: One-for-All Anomaly Detection via InContext Learning with Large Language Models [[Paper](https://arxiv.org/pdf/2512.01672)]
 - CADiff: Context-Aware Diffusion for Controllable Anomaly Generation in Anomaly Detection
-- AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection
-- Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory
-- Unsupervised Multi-View Visual Anomaly Detection via Progressive Homography-Guided Alignment
-- SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection
+- AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [[Paper](https://arxiv.org/abs/2505.09926)]
+- Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[Paper](https://arxiv.org/abs/2511.05966)]
+- Unsupervised Multi-View Visual Anomaly Detection via Progressive Homography-Guided Alignment [[Paper](https://arxiv.org/abs/2511.18766)]
+- SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection [[Paper](https://arxiv.org/html/2512.05540)]
 - MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation
 - Exploring High-order-aware Prompt Learning for Zero shot Anomaly Detection
-- RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection
+- RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection [[Paper](https://arxiv.org/pdf/2512.11284)]
 - MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection
-
 </details>
 
 ---
