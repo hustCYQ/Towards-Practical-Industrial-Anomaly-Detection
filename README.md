@@ -17,7 +17,7 @@ Gradually updated~
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [AAAI-2026](#AAAI-2026) | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -124,7 +124,22 @@ Gradually updated~
 
 
 
+## AAAI-2026
 
+<details open>
+<summary>📚 Show/Hide NeurIPS-2025 Papers</summary>
+
+- ReinAD: Towards Real-world Industrial Anomaly Detection with a Comprehensive Contrastive Dataset [[paper](https://openreview.net/pdf?id=wEH5YGPSTx)]
+- Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[paper](https://arxiv.org/abs/2510.16865)]
+- ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining [[paper](https://nips.cc/media/neurips-2025/Slides/116220.pdf)]
+- FAST: Foreground‑aware Diffusion with Accelerated Sampling Trajectory for Segmentation‑oriented Anomaly Synthesis [[paper](https://arxiv.org/abs/2509.20295)]
+- An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination [[paper](https://arxiv.org/abs/2510.21296)]
+- AnomalyCoT: A Multi-Scenario Chain-of-Thought Dataset for Multimodal Large Language Models [[paper](https://marine318.github.io/AnomalyCoT.github.io/AnomalyCoT__A_Multi_Scenario_Chain_of_Thought_Dataset_for_Multimodal_Large_Language_Models.pdf)]
+- Normal-Abnormal Guided Generalist Anomaly Detection [[paper](https://arxiv.org/abs/2510.00495)]
+
+</details>
+
+---
 
 
 ## NeurIPS-2025
