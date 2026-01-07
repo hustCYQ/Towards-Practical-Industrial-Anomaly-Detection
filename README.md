@@ -129,13 +129,28 @@ Gradually updated~
 <details open>
 <summary>📚 Show/Hide NeurIPS-2025 Papers</summary>
 
-- ReinAD: Towards Real-world Industrial Anomaly Detection with a Comprehensive Contrastive Dataset [[paper](https://openreview.net/pdf?id=wEH5YGPSTx)]
-- Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[paper](https://arxiv.org/abs/2510.16865)]
-- ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining [[paper](https://nips.cc/media/neurips-2025/Slides/116220.pdf)]
-- FAST: Foreground‑aware Diffusion with Accelerated Sampling Trajectory for Segmentation‑oriented Anomaly Synthesis [[paper](https://arxiv.org/abs/2509.20295)]
-- An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination [[paper](https://arxiv.org/abs/2510.21296)]
-- AnomalyCoT: A Multi-Scenario Chain-of-Thought Dataset for Multimodal Large Language Models [[paper](https://marine318.github.io/AnomalyCoT.github.io/AnomalyCoT__A_Multi_Scenario_Chain_of_Thought_Dataset_for_Multimodal_Large_Language_Models.pdf)]
-- Normal-Abnormal Guided Generalist Anomaly Detection [[paper](https://arxiv.org/abs/2510.00495)]
+- Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects
+- Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation
+- IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection
+- FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI
+- CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection
+- Quality-Aware Language-Conditioned Local Auto Regressive Anomaly Synthesis and Detection
+- AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization
+- PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures
+- AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer
+- AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection
+- AnomalyPainter: Vision-Language-Diffusion Synergy for Realistic and Diverse Unseen Industrial Anomaly Synthesis
+- CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-based Anomaly Synthesis
+- ICAD-LLM: One-for-All Anomaly Detection via InContext Learning with Large Language Models
+- CADiff: Context-Aware Diffusion for Controllable Anomaly Generation in Anomaly Detection
+- AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection
+- Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory
+- Unsupervised Multi-View Visual Anomaly Detection via Progressive Homography-Guided Alignment
+- SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection
+- MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation
+- Exploring High-order-aware Prompt Learning for Zero shot Anomaly Detection
+- RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection
+- MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection
 
 </details>
 
