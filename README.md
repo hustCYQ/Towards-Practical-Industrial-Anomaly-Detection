@@ -625,11 +625,14 @@ Gradually updated~
 If you find this paper and repository useful, please cite our paper☺️.
 
 ```
-@article{ADSurvey,
-  title={A comprehensive survey for real-world industrial defect detection: Challenges, approaches, and prospects},
+@article{ADsurvey,
+  title={A comprehensive survey for real-world industrial surface defect detection: Challenges, approaches, and prospects},
   author={Cheng, Yuqi and Cao, Yunkang and Yao, Haiming and Luo, Wei and Jiang, Cheng and Zhang, Hui and Shen, Weiming},
-  journal={arXiv preprint arXiv:2507.13378},
-  year={2025}
+  journal={Journal of Manufacturing Systems},
+  volume={84},
+  pages={152--172},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 ## Star History
