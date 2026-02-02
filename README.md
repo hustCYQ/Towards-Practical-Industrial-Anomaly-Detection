@@ -128,12 +128,12 @@ Gradually updated~
 <details open>
 <summary>📚 Show/Hide</summary>
 
-- Dual Distillation for Few-Shot Anomaly Detection [paper](https://openreview.net/attachment?id=tRO6G20Qba&name=pdf)
-- MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [paper](https://openreview.net/attachment?id=TQkFiW3AEX&name=pdf)
-- PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [paper](https://openreview.net/attachment?id=7L7kmHHfgf&name=pdf)
-- Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [paper](https://openreview.net/attachment?id=YRrlJ8oVEH&name=pdf)
-- Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [paper](https://openreview.net/attachment?id=XW4mROtaVb&name=pdf)
-- VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning? [paper](https://openreview.net/attachment?id=pBTXsu1i77&name=pdf)
+- Dual Distillation for Few-Shot Anomaly Detection [[paper](https://openreview.net/attachment?id=tRO6G20Qba&name=pdf)]
+- MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[paper](https://openreview.net/attachment?id=TQkFiW3AEX&name=pdf)]
+- PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[paper](https://openreview.net/attachment?id=7L7kmHHfgf&name=pdf)]
+- Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[paper](https://openreview.net/attachment?id=YRrlJ8oVEH&name=pdf)]
+- Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [[paper](https://openreview.net/attachment?id=XW4mROtaVb&name=pdf)]
+- VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning? [[paper](https://openreview.net/attachment?id=pBTXsu1i77&name=pdf)]
 </details>
 
 ---
