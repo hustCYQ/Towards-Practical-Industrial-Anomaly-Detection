@@ -17,7 +17,7 @@ Gradually updated~
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [AAAI-2026](#AAAI-2026) | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [ICLR-2026](#ICLR-2026) | [AAAI-2026](#AAAI-2026) | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -123,6 +123,20 @@ Gradually updated~
 ---
 
 
+## ICLR-2026
+
+<details open>
+<summary>📚 Show/Hide</summary>
+
+- Dual Distillation for Few-Shot Anomaly Detection [paper](https://openreview.net/attachment?id=tRO6G20Qba&name=pdf)
+- MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [paper](https://openreview.net/attachment?id=TQkFiW3AEX&name=pdf)
+- PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [paper](https://openreview.net/attachment?id=7L7kmHHfgf&name=pdf)
+- Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [paper](https://openreview.net/attachment?id=YRrlJ8oVEH&name=pdf)
+- Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [paper](https://openreview.net/attachment?id=XW4mROtaVb&name=pdf)
+- VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning? [paper](https://openreview.net/attachment?id=pBTXsu1i77&name=pdf)
+</details>
+
+---
 
 ## AAAI-2026
 
