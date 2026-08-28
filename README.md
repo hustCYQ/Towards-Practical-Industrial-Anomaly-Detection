@@ -17,7 +17,7 @@ Gradually updated~
 
 ---
 ## 🔗 Quick Navigation
-- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [ICLR-2026](#ICLR-2026) | [AAAI-2026](#AAAI-2026) | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [ECCV-2026](#ECCV-2026) |[ICML-2026](#ICML-2026) |[CVPR-2026](#CVPR-2026) |[ICLR-2026](#ICLR-2026) | [AAAI-2026](#AAAI-2026) | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -121,6 +121,91 @@ Gradually updated~
 </details>
 
 ---
+
+
+
+## ECCV-2026
+
+📚 Show/Hide
+
+  * ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [[paper](https://arxiv.org/abs/2608.01793)] [[code](https://github.com/CLendering/ReFP-AD)]
+  * DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection [[paper](https://arxiv.org/abs/2606.26687)] [[code](https://github.com/crimama/DeCoFlow)]
+  * IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [[paper](https://arxiv.org/abs/2607.19032)] [[code](https://github.com/HULEI7/IMMoE)]
+  * CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [[paper](https://arxiv.org/abs/2607.02930)] [[code](https://github.com/WenDongyp/CL-Anomaly)]
+  * EGVLR: Evidence-Grounded Vision–Language Reinforcement for Anomaly Reasoning [[paper](https://github.com/leolin65/EGVLR-project/blob/main/paper.pdf)] [[code](https://github.com/leolin65/EGVLR-project)]
+  * Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection [[paper](https://arxiv.org/abs/2607.03817)]
+  * CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[paper](https://arxiv.org/abs/2606.20300)] [[code](https://github.com/Junhaocai27/CMDS-AD)]
+  * Defect-aware Hybrid Prompt Optimization for Zero-Shot Multi-type Anomaly Detection and Segmentation [[paper](https://arxiv.org/abs/2512.09446)] [[code](https://github.com/boschresearch/defect-aware-prompt-optimization)]
+  * Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors [[paper](https://arxiv.org/abs/2606.29428)]
+  * UniScale: Arbitrary-Scale Anomaly Generation [[paper](https://arxiv.org/abs/2608.07864)]
+  * DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [[paper](https://arxiv.org/abs/2608.07904)]
+  * BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [[paper](https://arxiv.org/abs/2602.13091)]
+  * HLRAD: High-dimensional Latent Representation for Unified Anomaly Detection [[paper](https://zouningmu.github.io/images/people/2161.pdf)]
+  * ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection [[paper](https://arxiv.org/abs/2607.02252)] [[code](https://github.com/LGC-AD/ArcAD)]
+  * Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [[paper](https://arxiv.org/abs/2606.29181)] [[code](https://github.com/vpc-ccg/AF3AD)]
+  * PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images [[paper](https://arxiv.org/abs/2608.04210)]
+  * DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [[paper](https://arxiv.org/abs/2511.16920)]
+  * Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [[paper](https://arxiv.org/abs/2605.24251)]
+  * LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [[paper](https://arxiv.org/abs/2606.28688)] [[code](https://github.com/cnulab/LogiCo)]
+  * GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis [[paper](https://arxiv.org/abs/2604.08301)]
+  * MATCH: Flow Matching for Multi-View Anomaly Detection [[paper](https://arxiv.org/abs/2606.24375)]
+
+* * *
+
+## ICML-2026
+
+📚 Show/Hide
+
+  * Anomaly-Preference Image Generation [[paper](https://openreview.net/forum?id=26ELwHEbQL)]
+  * CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [[paper](https://openreview.net/forum?id=g95mt3KBRd)] [[code](https://github.com/kingdomShu/CoGeoAD)]
+  * Formally Exploring Visual Anomaly Detection Evaluation Metrics [[paper](https://openreview.net/forum?id=Cotj8tWdYp)]
+  * Is Task-Specific Training Necessary for Anomaly Detection? [[paper](https://openreview.net/forum?id=0Qudez0gLp)] [[code](https://github.com/longkukuhi/RAD)]
+  * Memory-Distilled Selection for Noise-Robust Anomaly Detection [[paper](https://openreview.net/forum?id=fhXqiit0CW)] [[code](https://github.com/SirojbekSafarov/MeDS)]
+  * Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [[paper](https://openreview.net/forum?id=91gJ3Zp2lT)] [[code](https://github.com/fuyunwang/MPFM-OSAD)]
+  * Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacers [[paper](https://openreview.net/forum?id=cIJ43SR8HX)] [[code](https://github.com/Yuan-Honoka-Guo/CFR)]
+
+* * *
+
+## CVPR-2026
+
+📚 Show/Hide
+
+  * Anomaly-Related Residual Fields for Cross-domain Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Anomaly-Related_Residual_Fields_for_Cross-domain_Anomaly_Detection_CVPR_2026_paper.html)]
+  * ADSeeker: A Knowledge-Grounded Reasoning Framework for Industry Anomaly Detection and Reasoning [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_ADSeeker_A_Knowledge-Grounded_Reasoning_Framework_for_Industry_Anomaly_Detection_and_CVPR_2026_paper.html)]
+  * MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Park_MoECLIP_Patch-Specialized_Experts_for_Zero-shot_Anomaly_Detection_CVPR_2026_paper.html)] [[code](https://github.com/CoCoRessa/MoECLIP)]
+  * MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Yao_MMR-AD_A_Large-Scale_Multimodal_Dataset_for_Benchmarking_General_Anomaly_Detection_CVPR_2026_paper.html)]
+  * AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Fucka_AnomalyVFM_--_Transforming_Vision_Foundation_Models_into_Zero-Shot_Anomaly_Detectors_CVPR_2026_paper.html)] [[code](https://maticfuc.github.io/anomaly_vfm/)]
+  * InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Sakai_InvAD_Inversion-based_Reconstruction-Free_Anomaly_Detection_with_Diffusion_Models_CVPR_2026_paper.html)]
+  * Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Geometry-Aligned_and_Anomaly-Aware_Reconstruction_for_3D_Anomaly_Detection_CVPR_2026_paper.html)]
+  * Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Seo_Anomaly_as_Non-Conformity_via_Training-Free_Graph_Laplacian_Energy_Minimization_CVPR_2026_paper.html)]
+  * A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_A_Semantically_Disentangled_Unified_Model_for_Multi-category_3D_Anomaly_Detection_CVPR_2026_paper.html)]
+  * Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Back_to_Point_Exploring_Point-Language_Models_for_Zero-Shot_3D_Anomaly_CVPR_2026_paper.html)]
+  * VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Hou_VisualAD_Language-Free_Zero-Shot_Anomaly_Detection_via_Vision_Transformer_CVPR_2026_paper.html)] [[code](https://github.com/7HHHHH/VisualAD)]
+  * Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liao_Multi-Prototype_Compactness_and_Boundary-Aware_Synthesis_for_Unsupervised_Anomaly_Detection_CVPR_2026_paper.html)]
+  * GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_GS-CLIP_Zero-shot_3D_Anomaly_Detection_by_Geometry-Aware_Prompt_and_Synergistic_CVPR_2026_paper.html)]
+  * GPFlow: Gaussian Prototype Probability Flow for Unsupervised Multi-Modal Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_GPFlow_Gaussian_Prototype_Probability_Flow_for_Unsupervised_Multi-Modal_Anomaly_Detection_CVPR_2026_paper.html)]
+  * One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Rao_One-to-More_High-Fidelity_Training-Free_Anomaly_Generation_with_Attention_Control_CVPR_2026_paper.html)]
+  * Complementary Prototype Mapping for Efficient Multimodal Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_Complementary_Prototype_Mapping_for_Efficient_Multimodal_Anomaly_Detection_CVPR_2026_paper.html)] [[code](https://github.com/yuanzhao-CVLAB/CPMAD)]
+  * UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_UniMMAD_Unified_Multi-Modal_and_Multi-Class_Anomaly_Detection_via_MoE-Driven_Feature_CVPR_2026_paper.html)] [[code](https://github.com/yuanzhao-CVLAB/UniMMAD)]
+  * From Attraction to Equilibrium: Physics-Inspired Semantic Gravitons for Zero-Shot Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_From_Attraction_to_Equilibrium_Physics-Inspired_Semantic_Gravitons_for_Zero-Shot_Anomaly_CVPR_2026_paper.html)]
+  * Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Reasoning-Driven_Anomaly_Detection_and_Localization_with_Image-Level_Supervision_CVPR_2026_paper.html)] [[code](https://github.com/YizhouJin313/ReADL)]
+  * Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Long_Towards_an_Incremental_Unified_Multimodal_Anomaly_Detection_Augmenting_Multimodal_Denoising_CVPR_2026_paper.html)]
+  * Dual-Prototype-Guided Multi-task Learning for Unsupervised Anomaly Detection and Classification [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Luo_Dual-Prototype-Guided_Multi-task_Learning_for_Unsupervised_Anomaly_Detection_and_Classification_CVPR_2026_paper.html)]
+  * Omni-AD: A Large-scale and Versatile Benchmark for Industrial Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Omni-AD_A_Large-scale_and_Versatile_Benchmark_for_Industrial_Anomaly_Detection_CVPR_2026_paper.html)]
+  * Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Bidirectional_Multimodal_Prompt_Learning_with_Scale-Aware_Training_for_Few-Shot_Multi-Class_CVPR_2026_paper.html)]
+  * DLVP-CLIP: Enhancing Fine-Grained Zero-Shot Anomaly Detection via Dynamic Local Visual Prompting [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_DLVP-CLIP_Enhancing_Fine-Grained_Zero-Shot_Anomaly_Detection_via_Dynamic_Local_Visual_CVPR_2026_paper.html)]
+  * RAID: Retrieval-Augmented Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Cai_RAID_Retrieval-Augmented_Anomaly_Detection_CVPR_2026_paper.html)]
+  * FastRef: Fast Prototype Refinement for Few-shot Industrial Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_FastRef_Fast_Prototype_Refinement_for_Few-shot_Industrial_Anomaly_Detection_CVPR_2026_paper.html)]
+  * FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_FB-CLIP_Fine-Grained_Zero-Shot_Anomaly_Detection_with_Foreground-Background_Disentanglement_CVPR_2026_paper.html)] [[code](https://github.com/Xi-Mu-Yu/FB-CLIP)]
+  * Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Kang_Hierarchical_Point-Patch_Fusion_with_Adaptive_Patch_Codebook_for_3D_Shape_CVPR_2026_paper.html)]
+  * Wavelet-Driven 3D Anomaly Detection under Pose-Agnostic and Sparse-View [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Shao_Wavelet-Driven_3D_Anomaly_Detection_under_Pose-Agnostic_and_Sparse-View_CVPR_2026_paper.html)]
+  * AG-VAS: Anchor-Guided Zero-Shot Visual Anomaly Segmentation with Large Multimodal Models [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Qu_AG-VAS_Anchor-Guided_Zero-Shot_Visual_Anomaly_Segmentation_with_Large_Multimodal_Models_CVPR_2026_paper.html)]
+  * Defect Cue-Preserved Structural Feature Refinement for Few-Shot Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Defect_Cue-Preserved_Structural_Feature_Refinement_for_Few-Shot_Anomaly_Detection_CVPR_2026_paper.html)]
+  * Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Hunting_Normality_from_Query_Sample_via_Residual_Learning_for_Generalist_CVPR_2026_paper.html)]
+  * SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lendering_SubspaceAD_Training-Free_Few-Shot_Anomaly_Detection_via_Subspace_Modeling_CVPR_2026_paper.html)]
+
+* * *
+
 
 
 ## ICLR-2026
