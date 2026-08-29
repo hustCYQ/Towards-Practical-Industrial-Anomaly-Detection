@@ -14,10 +14,9 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 ## 🏅 Recent Featured Papers
 
 Gradually updated~
-
 ---
 ## 🔗 Quick Navigation
-- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [ECCV-2026](#ECCV-2026) |[ICML-2026](#ICML-2026) |[CVPR-2026](#CVPR-2026) |[ICLR-2026](#ICLR-2026) | [AAAI-2026](#AAAI-2026) | [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [ECCV-2026](#ECCV-2026) |[ICML-2026](#ICML-2026) |[CVPR-2026](#CVPR-2026) |[ICLR-2026](#ICLR-2026) | [AAAI-2026](#AAAI-2026) | [Journal-2026](#Journal-2026)| [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -253,7 +252,163 @@ Gradually updated~
 </details>
 
 ---
+## Journal-2026
 
+<details open>
+<summary>📚 Show/Hide Journal-2026 Papers</summary>
+
+- ZUMA: Training-Free Zero-Shot Unified Multimodal Anomaly Detection [[TPAMI](https://doi.org/10.1109/TPAMI.2026.3658856)] [[code](https://github.com/yif-ma/ZUMA)]
+- MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation With Mutual Scoring of Unlabeled Samples [[TPAMI](https://doi.org/10.1109/TPAMI.2026.3688174)]
+
+- Accurate Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers [[TIP](https://doi.org/10.1109/TIP.2026.3659337)]
+- “Stones From Other Hills Can Polish Jade”: Zero-Shot Anomaly Synthesis via Cross-Domain Anomaly Injection [[TIP](https://doi.org/10.1109/TIP.2026.3675432)]
+- Adapting Domain-Aware Knowledge to Vision-Language Model for Zero-Shot Anomaly Detection [[TIP](https://doi.org/10.1109/TIP.2026.3671665)]
+- Fine-Grained Enhancement Convolutional Diffusion Transformer for Unsupervised Anomaly Detection [[TIP](https://doi.org/10.1109/TIP.2026.3709502)]
+- Unified Anomaly Detection via Multi-Scale Contrasted Memory [[TIP](https://doi.org/10.1109/TIP.2026.3663923)]
+- UAD: A Unified Model for Zero-Shot Anomaly Detection [[TIP](https://doi.org/10.1109/TIP.2026.3718433)] [[code](https://github.com/hanli6688/UAD)]
+- XMatchAD: A Cross-Modal Matching Perspective on Reconstruction-Based Anomaly Detection [[TIP](https://doi.org/10.1109/TIP.2026.3718437)]
+- Improving Unsupervised Ultrasonic Image Anomaly Detection via Frequency-Spatial Feature Filtering and Gaussian Mixture Modeling [[TIP](https://doi.org/10.1109/TIP.2026.3659292)]
+
+- Unified Multimodal Industrial Anomaly Detection via Few Normal Samples [[TII](https://doi.org/10.1109/TII.2026.3681017)]
+- Semantically Guided Counterfactual Model for Multiclass Anomaly Detection [[TII](https://doi.org/10.1109/TII.2026.3665617)]
+- CKM: Continual Anomaly Detection Based on Compact Knowledge Memory [[TII](https://doi.org/10.1109/TII.2026.3698601)]
+- CMSNet: A Cross-Modal Synergistic Network for Industrial Anomaly Detection [[TII](https://doi.org/10.1109/TII.2026.3714872)]
+- PID-AD: A Generalist Industrial Anomaly Detection Method Inspired by PID Controllers [[TII](https://doi.org/10.1109/TII.2026.3723709)]
+
+- Biomimetic Visual Perception Network for Industrial Image Anomaly Detection [[TASE](https://doi.org/10.1109/TASE.2026.3670897)]
+- Cross-Modal Guidance Learning for Zero-Shot Industrial Anomaly Detection [[TASE](https://doi.org/10.1109/TASE.2026.3726437)]
+- Prior-Guided Feature Sampling and Restoration for Few-Shot Industrial Anomaly Detection [[TASE](https://doi.org/10.1109/TASE.2026.3670014)]
+- Prior-Guided and Gaussian Mixture-Refined Network for Industrial Anomaly Detection and Localization [[TASE](https://doi.org/10.1109/TASE.2026.3662192)]
+- IA-CLIP: A Single-Source Industrial Anomaly Detection Method for Multi-Target Domain Generalization [[TASE](https://doi.org/10.1109/TASE.2026.3656353)]
+
+- Multimodal Industrial Anomaly Detection via Geometric Prior [[TCSVT](https://doi.org/10.1109/TCSVT.2025.3613708)]
+- APG-Net: Adaptive Prototype Guidance Network for Multi-Sensor Industrial Anomaly Detection [[TCSVT](https://doi.org/10.1109/TCSVT.2025.3650677)]
+- Cross-View Dynamic Learning-Based Multi-Class Industrial Anomaly Detection [[TCSVT](https://doi.org/10.1109/TCSVT.2026.3685706)]
+- FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization [[TCSVT](https://doi.org/10.1109/TCSVT.2026.3671805)]
+- Isolating to Harness: Cross-Division Distillation for Fully Unsupervised Anomaly Detection [[TCSVT](https://doi.org/10.1109/TCSVT.2026.3719070)]
+
+- Self-Supervised CLIP-Guided Few-Shot Industrial Anomaly Detection [[TIM](https://doi.org/10.1109/TIM.2026.3661696)]
+
+- Anomaly or Characteristic: Memory-Based Coarse-to-Fine Feature Fusion for Industrial Anomaly Detection [[TMM](https://doi.org/10.1109/TMM.2026.3668690)] [[code](https://github.com/LZL501/c3f_industrial_anomaly_detection)]
+- TunCLIP: Adaptive Multi-Scale Zero-Shot Anomaly Detection via Vision-Language Feature Infiltration and Semantic Enhancement [[TMM](https://doi.org/10.1109/TMM.2026.3684998)]
+- Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network [[TMM](https://doi.org/10.1109/TMM.2025.3632646)]
+
+- VTFusion: A Vision–Text Multimodal Fusion Network for Few-Shot Anomaly Detection [[TCYB](https://doi.org/10.1109/TCYB.2026.3651630)]
+- VCF-CLIP: Visual Context-Driven Fine-Grained Prompt Learning for Zero-Shot Anomaly Detection [[TNNLS](https://doi.org/10.1109/TNNLS.2026.3713374)]
+
+- ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [[TAI](https://doi.org/10.1109/TAI.2026.3680823)] [[code](https://github.com/M-3LAB/ASBench)]
+- FGPT: Fine-Grained Prompt Tuning for Zero-Shot Anomaly Detection [[TAI](https://doi.org/10.1109/TAI.2026.3661382)]
+- Glad: Generalizable Anomaly Detection via Semantic-Level Feature Contrast [[TAI](https://doi.org/10.1109/TAI.2026.3712677)]
+
+- ADMD: An Accelerated Denoising Masked Diffusion Model for Unsupervised Anomaly Detection in Consumer Electronics Manufacturing [[TCE](https://doi.org/10.1109/TCE.2026.3659501)]
+- Texture Feature Enhancement for Image Anomaly Detection [[TCE](https://doi.org/10.1109/TCE.2026.3714711)]
+
+- Toward Zero-Shot Point Cloud Anomaly Detection: A Multiview Projection Framework [[TSMC](https://doi.org/10.1109/TSMC.2025.3648581)]
+
+- Neighborhood Attention-Based Feature Reconstruction for Image Anomaly Detection and Localization [[TOMM](https://doi.org/10.1145/3786784)] [[code](https://github.com/Math-Computer/NAFRAD)]
+
+- UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2025.111820)] [[code](https://github.com/YoojLee/Uniformaly)]
+- A Memory-Tree Driven Network for Multi-View Fusion Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2025.112106)]
+- Multi-AD: Cross-Domain Unsupervised Anomaly Detection for Medical and Industrial Applications [[PR](https://doi.org/10.1016/j.patcog.2025.112486)]
+- MMFNet: A Multi-Scale Memory Fusion Network Based on Simulated Abnormal Samples for Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2025.112581)]
+- A Multi-Expert Framework for Enhancing Multimodal Large Language Models in Industrial Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2025.112752)]
+- One-Shot Unsupervised Industrial Anomaly Detection: Enhanced Performance Under Extreme Data Scarcity [[PR](https://doi.org/10.1016/j.patcog.2025.112759)]
+- Efficient Industrial Anomaly Detection via Cross-Scale Distillation with Enhanced Feature Compression [[PR](https://doi.org/10.1016/j.patcog.2025.112761)]
+- A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features [[PR](https://doi.org/10.1016/j.patcog.2025.112924)]
+- MPFR: Memory Prompt Feature Reconstruction for Continual Anomaly Detection and Segmentation [[PR](https://doi.org/10.1016/j.patcog.2025.112946)]
+- A Memory and Retrieval Transformer-Based Unsupervised Learning Model for Anomaly Detection and Segmentation [[PR](https://doi.org/10.1016/j.patcog.2025.113004)]
+- Entropy-Increasing Linear Attention for Multi-Class Unsupervised Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.113089)]
+- DyC-CLIP: Dynamic Context-Aware Multi-Modal Prompt Learning for Zero-Shot Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.113215)]
+- MvP-Diff: Multivariate Yet Precise Diffusion for Anomaly Images Synthesis and Segmentation [[PR](https://doi.org/10.1016/j.patcog.2026.113294)]
+- Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.113316)]
+- A Prototype Correction Multi-Scale Feature Reconstruction Network for Industrial Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.113331)]
+- Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era [[PR](https://doi.org/10.1016/j.patcog.2026.113354)]
+- Generalizing CLIP Prompts for Zero-Shot Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.113406)]
+- PAPL: Particle-Based Adaptive Prompt Learning for Zero-Shot Industrial Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.113489)]
+- Visual Anomaly Detection Under Complex View-Illumination Interplay: A Large-Scale Benchmark [[PR](https://doi.org/10.1016/j.patcog.2026.113666)] [[code](https://github.com/hustCYQ/M2AD)]
+- S3AD: Efficient Industrial Anomaly Detection via Selection, Space, and Scale [[PR](https://doi.org/10.1016/j.patcog.2026.113868)]
+- DecoupleMAD: Boosting Sensitivity in Multimodal Anomaly Detection via Representation Decoupling [[PR](https://doi.org/10.1016/j.patcog.2026.114025)]
+- AdaSAM-AD: Boosting SAM2 for Fine-Grained Pixel-Level Anomaly Detection via Spatial-Channel Calibration and Deformable Cascades [[PR](https://doi.org/10.1016/j.patcog.2026.114073)]
+- LoFT-CLIP: Few-Shot Anomaly Detection for Railway Fasteners Based on Large Vision-Language Models [[PR](https://doi.org/10.1016/j.patcog.2026.114099)]
+- SimpleZ3D: A Simple Framework for Zero-Shot 3D Industrial Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.114237)]
+- BinaryAD: Efficient Image Anomaly Detection via Binarized Representations [[PR](https://doi.org/10.1016/j.patcog.2026.114280)]
+- FEAD: Frequency-Enhanced Cross-Modal Prompt Learning for Zero-Shot Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.114356)]
+- Physics-Inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.114391)]
+- SGANet: Semantic and Geometric Alignment for Multimodal Multi-View Anomaly Detection [[PR](https://doi.org/10.1016/j.patcog.2026.114782)]
+
+- PP-Former: Exploring Purified Intrinsic Normal Prototypes for Industrial Anomaly Detection [[KBS](https://doi.org/10.1016/j.knosys.2025.114759)]
+- A Feature Shuffling and Restoration Strategy for Universal Unsupervised Anomaly Detection [[KBS](https://doi.org/10.1016/j.knosys.2025.114874)]
+- Pseudo Knowledge Driven and Lightweight Reverse Distillation for Multimodal Anomaly Detection [[KBS](https://doi.org/10.1016/j.knosys.2025.114930)]
+- SAM-IAD: Injecting Specific Knowledge into SAM for Industrial Anomaly Detection [[KBS](https://doi.org/10.1016/j.knosys.2026.115515)]
+- Context-Aware Knowledge Distillation for Anomaly Detection [[KBS](https://doi.org/10.1016/j.knosys.2026.115690)]
+- SFC-Net: Semantic Filtering and Collaborative Contrast for Zero-Shot Anomaly Detection [[KBS](https://doi.org/10.1016/j.knosys.2026.115906)]
+- GA-CLIP: Dual-Branch CLIP for Generalizable and Anomaly-Aware Zero-Shot Anomaly Detection [[KBS](https://doi.org/10.1016/j.knosys.2026.116078)]
+- LOGIC-AD: Cross-Domain Zero-Shot Anomaly Detection via Logit-Space Consistency [[KBS](https://doi.org/10.1016/j.knosys.2026.116215)]
+
+- GlobalCLIP: Zero-Shot Manufacturing Anomaly Detection with Adaptive Self-Cyclic Ensemble Learning [[ESWA](https://doi.org/10.1016/j.eswa.2025.129448)]
+- Cycle-CFM: An Unsupervised Framework for Robust Multimodal Anomaly Detection in Industrial Settings [[ESWA](https://doi.org/10.1016/j.eswa.2025.129745)]
+- Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2025.129758)]
+- Prompting Across Perception and Recognition: A Unified CLIP-Based Visual-Text Prompt Framework for Zero-Shot Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2025.129936)]
+- Beyond Feature Mapping: Dual-Heterogeneous Knowledge Distillation with Mamba for Industrial Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.131146)]
+- DNPR: Zero-Shot Industrial Anomaly Detection via Dynamic Normal Prototype Refinement [[ESWA](https://doi.org/10.1016/j.eswa.2026.131331)]
+- AnomalyLVM: Vision-Language Models for Zero-Shot Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.131392)]
+- Industrial Anomaly Detection via Prompt Learning with Perturbation-Based Selective State Memory Units [[ESWA](https://doi.org/10.1016/j.eswa.2026.131482)]
+- Memory Guided Dual Discrepancy Network with Domain Adaptation for Few-Shot Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.131711)]
+- Unsupervised Anomaly Detection with a Stacked Transformer Diffusion Reconstruction Framework [[ESWA](https://doi.org/10.1016/j.eswa.2026.131764)]
+- Interpretable Semi-Supervised 3D Deep Anomaly Detection for Surface Defect Localization in Wire-Laser Directed Energy Deposition Using Point Clouds [[ESWA](https://doi.org/10.1016/j.eswa.2026.131963)]
+- Bidirectional Adaptive Transformers for Multimodal Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.132129)]
+- IPG-FRN: Intrinsic Prototype-Guided Feature Reconstruction Network for Industrial Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.132147)]
+- Beyond Vision-Only Anomaly Detection: DualAD-LLM by Leveraging Large Language Model with Dual-Detector Model for Leather Defect Inspection [[ESWA](https://doi.org/10.1016/j.eswa.2026.132521)]
+- Attention-Based Multi-Scale Dual Flow Reverse Distillation for Unsupervised Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.132791)]
+- TGRF-CLIP: CLIP-Based Text-Guided Fusion of Visual Residuals for Few-Shot Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.132817)]
+- CHSA-CLIP: Zero-Shot Anomaly Detection via Cross-Modal Hierarchical Semantic Alignment [[ESWA](https://doi.org/10.1016/j.eswa.2026.133094)]
+- CAP-HiCLIP: A Class-Aware Prompting Model with Hierarchical Consistency for Zero-Shot Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.133253)]
+- Task-Aware Text Prompt Fusion with Contrastive Learning for Zero-Shot Anomaly Detection [[ESWA](https://doi.org/10.1016/j.eswa.2026.133303)]
+
+- Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation [[IF](https://doi.org/10.1016/j.inffus.2025.103572)] [[code](https://github.com/evenrose/CMDIAD)]
+- ObjSegAD-Net: Region-Aware Pseudo-Defect Injection and Dual-Branch Architecture for Unsupervised Industrial Anomaly Detection [[IF](https://doi.org/10.1016/j.inffus.2025.103707)]
+- MALM-CLIP: A Generative Multi-Agent Framework for Multimodal Fusion in Few-Shot Industrial Anomaly Detection [[IF](https://doi.org/10.1016/j.inffus.2025.103765)]
+- Multi-Scale Strip-Shape Kernel Convolution Based Memory and Difference Attention for Industrial Anomaly Detection [[IF](https://doi.org/10.1016/j.inffus.2025.103904)]
+- Zoom-Anomaly: Multimodal Vision-Language Fusion Industrial Anomaly Detection with Synthetic Data [[IF](https://doi.org/10.1016/j.inffus.2025.103910)]
+- IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection [[IF](https://doi.org/10.1016/j.inffus.2025.104097)]
+- Style-Augmented Large-Scale Vision Model with Domain-Generalized Knowledge Fusion for Anomaly Detection in Powder Bed Additive Manufacturing [[IF](https://doi.org/10.1016/j.inffus.2025.104108)]
+- MuDeNet: A Multi-Patch Descriptor Network for Anomaly Modeling [[IF](https://doi.org/10.1016/j.inffus.2026.104214)]
+
+- Patch-Level Proxy Metric Learning with Coresets for Precise Anomaly Localization [[EAAI](https://doi.org/10.1016/j.engappai.2025.113094)]
+- Concurrent Historical Data Clustering and Common Feature Learning for New-Mode Zero-Shot Industrial Anomaly Detection [[EAAI](https://doi.org/10.1016/j.engappai.2025.113423)]
+- A Zero-Shot Anomaly Detection Network with Patch-Augmented Prompts and Test-Time Adaptation [[EAAI](https://doi.org/10.1016/j.engappai.2025.113525)]
+- A Novel Diffusion Model-Based Deep Learning Approach for Anomaly Detection in Computer Connector Image Analysis [[EAAI](https://doi.org/10.1016/j.engappai.2025.113604)]
+- Normality-Enhanced Knowledge Distillation Network for Unsupervised Industrial Anomaly Detection [[EAAI](https://doi.org/10.1016/j.engappai.2026.113751)]
+- A Twin-Branch Decoupled Network for Multi-Class Unsupervised Anomaly Detection [[EAAI](https://doi.org/10.1016/j.engappai.2026.113891)]
+- A Feature-Aware Attention Selection Network for Anomaly Detection on Printed Circuit Boards [[EAAI](https://doi.org/10.1016/j.engappai.2026.114303)]
+- Multi-Dimensional Logic Anomaly Inspection Method for Assembly Components Based on Virtual Domain Contrastive Pre-Training [[EAAI](https://doi.org/10.1016/j.engappai.2026.114431)]
+- Joint Reconstruction and Localization Network via Pre-Trained Feature Mapping for Industrial Anomaly Detection [[EAAI](https://doi.org/10.1016/j.engappai.2026.114744)]
+- Anomaly Localization of Industrial Images Based on Coordinate Dual Memory Banks and Difference Subsection Evolution [[EAAI](https://doi.org/10.1016/j.engappai.2026.114834)]
+- Anomaly Detection of Bamboo Chopsticks Based on Cross-Domain Mixup Augmentation and Self-Supervised Learning [[EAAI](https://doi.org/10.1016/j.engappai.2026.115034)]
+- A Plug-and-Play Intra-Class Variance Suppression Framework for Industrial Anomaly Detection [[EAAI](https://doi.org/10.1016/j.engappai.2026.115404)]
+- A Contrastive Language-Image Pre-Training-Based Hybrid-Modality Method for Zero-Shot Three-Dimensional Industrial Anomaly Detection with Application on Vehicle Stamped Parts [[EAAI](https://doi.org/10.1016/j.engappai.2026.115846)]
+
+- An Accurate and Resource-Efficient Network for Surface Anomaly Detection via Enhanced Downsampling and Activation Representation [[AEI](https://doi.org/10.1016/j.aei.2025.103891)]
+- Enhancing Aero-Engine Blade Few-Shot Anomaly Detection with Visual-Language Multi-Modal Models Under Domain Shift Conditions [[AEI](https://doi.org/10.1016/j.aei.2025.103953)]
+- An Open-Vocabulary Industrial Anomaly Detection Method Based on CLIP and LLM [[AEI](https://doi.org/10.1016/j.aei.2026.104599)]
+
+- Industrial Anomaly Detection via a Knowledge-Informed Density-Aware Reconstruction Framework [[CII](https://doi.org/10.1016/j.compind.2026.104500)]
+
+- The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection [[IJCV](https://doi.org/10.1007/s11263-026-02743-0)]
+- ResAD++: Towards Class Agnostic Anomaly Detection via Residual Feature Learning [[IJCV](https://doi.org/10.1007/s11263-026-02885-1)]
+
+- A Contextual Feature Refinement Framework for Industrial Anomaly Detection on Textured Surfaces with Limited Anomaly Samples [[ASOC](https://doi.org/10.1016/j.asoc.2026.114608)]
+- Boundary-Guided Large-Scale Vision Model for Unified Multi-Domain Industrial Anomaly Detection [[ASOC](https://doi.org/10.1016/j.asoc.2026.114650)]
+- Unsupervised Anomaly Localization Network for Automated Fiber Placement Defect Detection Under Data Scarcity [[ASOC](https://doi.org/10.1016/j.asoc.2026.115171)]
+- Zero-Shot Industrial Image Anomaly Detection via CLIP-Driven Multi-Scale Aggregation and SAM-Based Local Refinement [[ASOC](https://doi.org/10.1016/j.asoc.2026.115764)]
+- Rethinking the Prior Guided Vision Transformer for Industrial Anomaly Class Discovery [[ASOC](https://doi.org/10.1016/j.asoc.2026.116078)]
+
+- CLIP-MDC: CLIP Encoder Based Multimodal Defect Classification with Synthetic Anomaly Generation for Real-Time Surface Defect Detection [[JIM](https://doi.org/10.1007/s10845-025-02773-4)]
+- Few-Shot Mask-Guided Controllable Anomaly Image Generation via Inpainting Diffusion for Surface Defect Detection [[JIM](https://doi.org/10.1007/s10845-026-02893-5)]
+
+</details>
+
+---
 
 ## NeurIPS-2025
 
