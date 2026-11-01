@@ -16,7 +16,7 @@ Let’s ***work together*** to build a comprehensive, high-quality resource for 
 Gradually updated~
 ---
 ## 🔗 Quick Navigation
-- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [ECCV-2026](#ECCV-2026) |[ICML-2026](#ICML-2026) |[CVPR-2026](#CVPR-2026) |[ICLR-2026](#ICLR-2026) | [AAAI-2026](#AAAI-2026) | [Journal-2026](#Journal-2026)| [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
+- [Our-Recent-Publications](#Our-Recent-Publications) | [Survey](#Survey) | [BenchMark](#BenchMark)  | [NeurIPS-2026](#NeurIPS-2026) | [ACMMM-2026](#ACMMM-2026) | [ECCV-2026](#ECCV-2026) |[ICML-2026](#ICML-2026) |[CVPR-2026](#CVPR-2026) |[ICLR-2026](#ICLR-2026) | [AAAI-2026](#AAAI-2026) | [Journal-2026](#Journal-2026)| [NeurIPS-2025](#NeurIPS-2025) | [ICCV-2025](#ICCV-2025) | [IJCAI-2025](#IJCAI-2025)  | [ICML-2025](#ICML-2025) | [CVPR-2025](#CVPR-2025)  | [ICLR-2025](#ICLR-2025) | [AAAI-2025](#AAAI-2025) | [Journal-2025](#Journal-2025) | [Summary-before-2025](#Summary-before-2025)
 
 ---
 
@@ -120,6 +120,59 @@ Gradually updated~
 </details>
 
 ---
+
+
+
+
+
+## NeurIPS-2026
+
+📚 Show/Hide
+
+- Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection [[paper](https://arxiv.org/abs/2605.05850)]
+- Beyond Normal References: Discriminative Few-Shot Anomaly Detection [[paper](https://arxiv.org/abs/2605.23231)] [[code](https://github.com/mala-lab/IDEAL)]
+- Flow Mismatching: Unsupervised Anomaly Detection via Velocity Discrepancies in Flow Matching Models [[paper](https://arxiv.org/abs/2605.23070)]
+- GATE-AD: Graph Attention Network Encoding for Few-Shot Industrial Visual Anomaly Detection [[paper](https://arxiv.org/abs/2603.15300)] [[code](https://github.com/gthpapadopoulos/GATE-AD)]
+- InCLAD: A Continual Learning Benchmark for Industrial Visual Anomaly Detection [[paper](https://arxiv.org/abs/2610.15032)] [[code](https://github.com/LukaszMarcjan/InCLAD-benchmark)]
+- One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection [[paper](https://arxiv.org/abs/2601.05552)]
+- TED: Text-Axis Evidence Decomposition for Prompted Anomaly Localization [[paper](https://arxiv.org/abs/2609.39033)] [[code](https://github.com/barraki72268-sketch/TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization)]
+- TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection [[paper](https://arxiv.org/abs/2510.21171)]
+- Topology-Aware Optimal Transport for Source-Free Test-Time Adaptation in Anomaly Segmentation [[paper](https://arxiv.org/abs/2601.20333)] [[code](https://github.com/adabrh/TopoOT)]
+- Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning [[paper](https://arxiv.org/abs/2602.09850)]
+- Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling [[paper](https://arxiv.org/abs/2609.35059)]
+- UniDG: Unified Defect Generation via Defect-Context Editing [[paper](https://arxiv.org/abs/2604.08915)]
+- M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection [[paper](https://arxiv.org/abs/2603.00055)]
+
+* * *
+
+
+## ACMMM-2026
+
+📚 Show/Hide
+
+- Multi-View Anomaly Detection via Global Prototype Aggregation and Alignment
+- AnomalyAgent: Agentic Industrial Anomaly Synthesis via Tool-Augmented Reinforcement Learning [[paper](https://arxiv.org/abs/2604.07900)]
+- AggCLIP: Aggregating CLIP for Zero-Shot Multimodal Anomaly Detection
+- DriftAD: Visually-Guided Text Drift for Few-Shot Industrial Anomaly Detection [[paper](https://doi.org/10.1145/3767308.3835539)]
+- ShortcutBreaker: Low-Rank Noisy Bottleneck and Frequency Filtering Block for Multi-Class Unsupervised Anomaly Detection [[paper](https://arxiv.org/abs/2510.18342)]
+- ResAnoDiff: Decoupled Residual Diffusion for Few-Shot Industrial Anomaly Generation
+- ProtoSkip: Breaking the Identity Shortcut in 3D Point Cloud Anomaly Detection with Prototype-Purified Skip Connections
+- TC-MAF: Train-Calibrated Bounded Multi-Evidence Fusion for Multimodal Industrial Anomaly Detection [[paper](https://arxiv.org/abs/2607.11170)]
+- SGD-Net: Bridging Semantics and Geometry in Teacher-Student Distillation for 3D Anomaly Detection
+- CoPA: Object-Agnostic Contextual Prompt Learning for Zero-Shot Anomaly Detection
+- GLOG: Graph-based Component Relationship Modeling for Few-shot Logical Anomaly Detection
+- AnomalyBrush: Highly-Aligned Anomaly Image Generation with a Dual-Branch Diffusion Model
+- Perturb, Aggregate then Reconstruct: Consensus Aggregation and Fourier-Attended Multi-Decoders for Reconstruction-based Multi-View Anomaly Detection
+- Understanding and Overcoming Cross-modal Fusion Bias in Multimodal Anomaly Detection From A Fisher Information Perspective [[paper](https://arxiv.org/abs/2608.00986)]
+- Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection [[paper](https://arxiv.org/abs/2604.26868)]
+- Latent Anomaly Knowledge Excavation: Unveiling Sparse Sensitive Neurons in Vision-Language Models [[paper](https://arxiv.org/abs/2604.07802)]
+- OmniAD: Intrinsic Anomaly Detection and Reasoning via Semantic Anomaly Encoding [[paper](https://arxiv.org/abs/2505.22039)]
+- See More, Detect Less? Taming Information Leakage in Multi-View Anomaly Detection [[paper](https://arxiv.org/abs/2608.25168)]
+- SAGA-Net: Structure-Aware Geometry-Appearance Network for Multimodal Industrial Anomaly Detection
+
+* * *
+
+
 
 
 
